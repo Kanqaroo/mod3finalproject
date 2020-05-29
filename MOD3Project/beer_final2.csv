@@ -1,0 +1,1087 @@
+beer_name,abv,isorganic,isretired,status,brewery,category_name,style_name,ibumin,ibumax,abvmin,abvmax,srmmin,srmmax,original_gravity,fgmin,fgmax,ibu
+Bearwalker Barrel Aged Double Maple,6,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,26
+Bearwalker Brown,5.1,N,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,43
+Cabin Fever,6.5,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.065,1.01,1.018,25
+Deuce,7,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,35
+Family Values,8.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.083,1.01,1.018,35
+Fusion 17,5.5,N,Y,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,35
+Georgia Brown,5.8,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,30
+Hash Brown,6.2,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,60
+Imperial India Brown Ale,9.2,N,N,verified,Portsmouth Brewery,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,27
+Into the Woods,6.3,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,45
+Mighty Brown,7.5,N,Y,verified,Breckenridge Brewery,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,21
+Mountain Series: Salted Caramel Brown,6.5,N,N,verified,Breckenridge Brewery,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,24
+Nut Brown Ale,5.2,N,N,verified,Wachusett Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,17
+One Nut,6.1,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,44
+Ovila Abbey Brown Ale (With Mandarins and Cocoa),7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,28
+S Bus Imperial Brown,5.6,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,25
+Simmer Down Brown,7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,25
+Tumbler,5.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,37
+Unibrown,7.1,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,25
+Wilco Tango Foxtrot,7.8,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,25,45,4,6.4,15,26,1.04,1.01,1.018,27
+12th Of Never,5.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.05,1.008,1.014,45
+420 Extra Pale Ale,5.4,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,41
+A Little Sumpin Sumpin,7.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.076,1.008,1.014,64.2
+Ale 20,5.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,41
+All Colorado Wet Hop Pale Ale,5.8,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,35
+Anniversary Ale,3.8,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,34
+Audition - Pale Ale,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,37
+Barrel Aged Dale's Pale Ale (Makers Mark),6.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,40
+Barrel-Aged Thunder Ann,5.5,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,33
+Born Yesterday,7.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,37
+Celebration Ale 1992,5.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,42
+Chico King - Beer Camp Across America (2014),6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.065,1.008,1.014,45
+Citra Pale Ale,6,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,37
+CitruSinensis,7.9,Y,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,40
+Country Pale Ale,5.1,N,N,verified,Wachusett Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,17
+Credits & Debits,5,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,42
+Dale's Pale Ale,6.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,65
+Dale's Pale Ale Nitro,6.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,65
+Dales Dry Hop Equinox,6.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,41
+Dales T45 Dry Hop,6.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,38
+Dales T90 Dry Hop,6.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,33
+Draught-Style Pale Ale,5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,36
+Equinox,8.4,Y,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.078,1.008,1.014,50
+ESB - Early Spring Beer,5.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,40
+Fistful of Hops,6.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,32
+Four Hopsmen - Comet Dry Hopped,5.2,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,32
+Four Hopsmen - HBC 472,5.2,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,31
+Four Hopsmen - Hop Head Farms Eperimental Dry Hopped,5.2,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,38
+Four Hopsmen - Mandarina Bavaria Dry Hopped,5.2,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,34
+Fusion 39,5.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,30
+Goofer Dust,6.1,Y,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,40
+Harvest Ale,6.5,N,Y,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,41
+Harvest Ale 2007,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,35
+Hop Dog Harvest Pale Ale,6.2,N,N,verified,Laughing Dog Brewing,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,31
+India Pale Ale,6.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,32
+Karaoke Fail,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,37
+Lagunitas Undercover Investigation Shut-Down Ale,9.6,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.08,1.008,1.014,66.6
+Left Behind,6,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,32
+Little Sumpin Wild,8.74,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.082,1.008,1.014,72.51
+Little Wolf,4.7,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.052,1.008,1.014,40
+Mango Mosaic Pale Ale,5.5,N,N,verified,Breckenridge Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,29
+Michigan Awesome Hatter,5.8,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.057,1.008,1.014,55
+Moving To the Country,5,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,40
+New Dogtown Pale Ale,6.2,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,33
+Old Chico Crystal Wheat,4.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.048,1.008,1.014,26
+Pacific Ridge Pale Ale,6,N,N,verified,Anheuser-Busch InBev,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,32
+Palé,7.1,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,37
+Pale Ale,5.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,37
+Pale Ale,5.6,N,N,verified,Laughing Dog Brewing,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,33
+Paleooza,4.4,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.053,1.008,1.014,32.94
+Passion Grass,5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,54
+Pat-Rye-Ot,5.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.053,1.008,1.014,39
+Pinnacle Peak Pale Ale,4.2,N,N,verified,Harmon Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,32
+Puck American Pale Ale,5.2,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,37
+Sidecar Orange Pale Ale,5.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,35
+Simcoe Pale Ale,5.2,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,47
+Snow Glare,6,N,N,verified,Breckenridge Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,23
+Southern Hemisphere Harvest,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,66
+Stone Mill Organic Pale Ale,5.5,N,N,verified,Anheuser-Busch InBev,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,34
+Sumpin' Easy Ale,5.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,50.8
+The Carhartt Woodsman,4.4,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.053,1.008,1.014,32.9
+The Down Low Ale,3.9,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.042,1.008,1.014,42
+Thunder Ann,5.5,N,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,41
+Trademark Pale Ale,5.7,N,N,verified,Breckenridge Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,40
+Twin Peaks,5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,31
+United in Orange,5.3,N,N,verified,Breckenridge Brewery,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,41
+Pond Scum,7.3,N,N,verified,Bartlett Road Brewery,North American Origin Ales,Ale,20,35,3,4.1,5,12,1.033,1.006,1.012,45
+20th Street Ale Citra,6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,35
+20th Street Ale Crystal,7.3,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,35
+20th Street Ale Magnum,7.3,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,32
+Hop Bam,5.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,30,42,4.5,5.6,6,14,1.044,1.008,1.014,31
+Breckenridge Christmas Ale,7.4,N,N,verified,Breckenridge Brewery,North American Origin Ales,Ale,40,50,5.5,6.3,6,14,1.05,1.008,1.016,22
+Brown Shugga',9.9,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,40,50,5.5,6.3,6,14,1.1,1.008,1.016,51.1
+Celebrator Beer News,9.3,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,40,50,5.5,6.3,6,14,1.05,1.008,1.016,49
+Purebred A.P.A. Citra,6.2,N,N,verified,Laughing Dog Brewing,North American Origin Ales,Ale,40,50,5.5,6.3,6,14,1.05,1.008,1.016,67.8
+The Hairy Eyeball,8.8,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,40,50,5.5,6.3,6,14,1.05,1.008,1.016,56.66
+Life and Limb,10.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,40,50,5.5,6.3,6,14,1.05,1.008,1.016,45
+Audition - Dark Ale,8.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,20,35,4.2,7.8,16,16,1.06,1.012,1.018,23
+Bourbon Barrel Aged Maillard's Odyssey,9.3,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,20,35,4.4,8,16,16,1.06,1.012,1.018,40
+Maillard's Odyssey - Beer Camp Across America (2014),8.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,20,35,4,8.5,16,16,1.085,1.012,1.018,40
+Hoppy Seconds,8.4,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,20,35,4.1,8.1,5,16,1.06,1.012,1.018,27
+Dank Tank The Price is Wrong,9,N,N,verified,SweetWater Brewing Company,Belgian And French Origin Ales,Ale,20,50,7,11,9,35,1.064,1.012,1.024,48
+Silent Night,11,N,Y,verified,New Holland Brewing Company,Belgian And French Origin Ales,Ale,20,50,7,11,9,35,1.106,1.012,1.024,39
+Dubbel,7.4,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,30,6.25,7.5,16,36,1.069,1.012,1.016,22
+Ovila Abbey Aged Dubbel,8.5,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,30,6.25,7.5,16,36,1.06,1.012,1.016,22
+Ovila Dubbel,7.5,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,30,6.25,7.5,16,36,1.06,1.012,1.016,28
+2 x 4,8.7,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,29
+MaMa's Spaciale,6,N,N,verified,Brouwerij De Leite,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,22
+Audition - Belgian-Style Blonde,6.3,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,15
+Barrel Aged Chaka (Merlot),8,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,30
+Beach Bum Blonde Ale,5.4,N,N,verified,Anheuser-Busch InBev,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,17
+Belgian-Style Blonde IPA,7.5,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,23
+Bubbly Wit,7.1,N,N,verified,Dock Street Brewery,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,24
+Bud Light Golden Wheat,4.1,N,N,verified,Anheuser-Busch InBev,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,26
+Fusion 30,7.1,N,N,verified,Lagunitas Brewing Company,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,55
+Hummer,5.1,N,N,verified,SweetWater Brewing Company,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,23
+Mt. Takhoma Blonde Ale,3.8,N,N,verified,Harmon Brewing Company,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,18
+Prisoner of Hell,8,N,N,verified,Dock Street Brewery,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.054,1.008,1.014,19
+Yvan The Great - Beer Camp Across America (2014),6.3,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,15,30,6,7.8,4,7,1.053,1.008,1.014,50
+Afternooner,4.6,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,21
+Audition - Belgian-Style Pale Ale,5.3,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,28
+Bearsharktopus,6,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,23
+Belgian Black IPA - Beer Camp #94,7.7,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,52
+Belgian Crush,5.7,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,27
+Belgian Style Pale Ale - Mountain Series,6.5,N,N,verified,Breckenridge Brewery,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,25
+Chaka,8,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,20
+Demon Brewn,10,Y,N,verified,Jackalope Brewing Company,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,52
+Farmhouse Hatter,5.07,N,N,verified,New Holland Brewing Company,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.049,1.008,1.014,53
+Larry Triple Douple,8.5,N,N,verified,Wachusett Brewing Company,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,85
+Myron's Walk - Beer Camp Across America (2014),5.3,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.048,1.008,1.014,38
+Philly Tripel Plan B,8,N,N,verified,Dock Street Brewery,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.044,1.008,1.014,29
+White Hatter,5.5,N,N,verified,New Holland Brewing Company,Belgian And French Origin Ales,Ale,20,30,4,6,6,12,1.051,1.008,1.014,52
+Belgian Blond,6.7,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,50,7,11,4,10,1.067,1.012,1.024,20
+Ovila Belgian Golden Ale,8.5,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,50,7,11,4,10,1.064,1.012,1.024,44
+St. Benny's Labby Style Ale,7.5,N,N,verified,Laughing Dog Brewing,Belgian And French Origin Ales,Ale,20,50,7,11,4,10,1.064,1.012,1.024,26
+Dank Tank BSP Quad,11,N,Y,verified,SweetWater Brewing Company,Belgian And French Origin Ales,Ale,25,50,9,14,8,20,1.084,1.014,1.02,28
+Good Game,11,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,25,50,9,14,8,20,1.084,1.014,1.02,42
+Ovila Abbey Quad with Plums,10.2,N,Y,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,25,50,9,14,8,20,1.084,1.014,1.02,43
+Ovila Quad Brandy Barrel-Aged,10.1,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,25,50,9,14,8,20,1.084,1.014,1.02,42
+Trip in the Woods Madeira Quad,10.5,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,25,50,9,14,8,20,1.084,1.014,1.02,29
+18th Anniversary Belgian Tripel,10,N,N,verified,SweetWater Brewing Company,Belgian And French Origin Ales,Ale,20,45,7,10,4,9,1.07,1.01,1.018,17
+Beerhive,8.47,N,N,verified,New Holland Brewing Company,Belgian And French Origin Ales,Ale,20,45,7,10,4,9,1.07,1.01,1.018,26
+Black Tulip (2012),8.8,N,N,verified,New Holland Brewing Company,Belgian And French Origin Ales,Ale,20,45,7,10,4,9,1.07,1.01,1.018,21
+Cuvee Soeurasise,8.5,N,N,verified,Brouwerij De Leite,Belgian And French Origin Ales,Ale,20,45,7,10,4,9,1.07,1.01,1.018,40
+Filsae Papa V,8.5,N,N,verified,Brouwerij De Leite,Belgian And French Origin Ales,Ale,20,45,7,10,4,9,1.07,1.01,1.018,39
+Ovila Abbey Trippel,8.8,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,45,7,10,4,9,1.075,1.01,1.018,30
+Ovila Quad,10.5,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,45,7,10,4,9,1.07,1.01,1.018,29
+Ripley Tripel,9.6,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,45,7,10,4,9,1.079,1.01,1.018,25
+Tripel  Squared,9,N,N,verified,Laughing Dog Brewing,Belgian And French Origin Ales,Ale,20,45,7,10,4,9,1.083,1.01,1.018,35
+Audition - English-Style Bitter,5.6,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,20,35,3,4.1,5,12,1.033,1.006,1.012,32
+Dude of York,4.5,N,N,verified,Last Name Brewing,British Origin Ales,Ale,20,35,3,4.1,5,12,1.045,1.006,1.012,10
+SweetWater Motor Boat,5.6,N,N,verified,SweetWater Brewing Company,British Origin Ales,Ale,20,35,3,4.1,5,12,1.033,1.006,1.012,28
+There and Back - Beer Camp Across America (2014),5.6,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,20,35,3,4.1,5,12,1.053,1.006,1.012,40
+Black Brew Bae,6.4,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.056,1.012,1.018,50
+Black Eye PA,7.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.056,1.012,1.018,58
+Black Mad Hatter India Pale Ale,5.56,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.058,1.012,1.018,67
+Blindfold,7.4,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.056,1.012,1.018,70
+Dank Tank: Some Strange II Black IPA,10,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.056,1.012,1.018,63
+DevESTATEtion,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.068,1.012,1.018,67
+Home Skillet,5.6,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.056,1.012,1.018,61
+Imperial Black IPA,7.3,N,N,verified,Wachusett Brewing Company,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.056,1.012,1.018,70
+Night Time,7.9,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.087,1.012,1.018,65
+Spruce Beersteen,6,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,50,70,6,7.5,35,35,1.056,1.012,1.018,67
+Asian Gold Blonde,4.4,N,N,verified,Harmon Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,15
+Bad Luck Blonde,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,25
+Beer Camp: Dry Hopped Belgian Golden (2017),8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.066,1.008,1.016,35
+BFD - Beer For Drinking,4.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,33
+Blonde Ale,4.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,24
+Clean Sweep,3.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,18
+Dirty Blonde Ale,4.5,N,N,verified,Portsmouth Brewery,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,24
+Golden Ale,4.5,N,N,verified,Guinness,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,16
+Hatchery Series Release #6: Golden Summer Ale,4.8,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,35
+High Sierra FestivAle,5.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,18
+Honey Blonde,5.2,N,N,verified,Harmon Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,25
+Liberty Blonde,4.9,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,32
+Ovila Golden With Pomegranates,8.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,30
+Pear Champagne,5.3,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,22
+SummerBright Ale,4.5,N,N,verified,Breckenridge Brewery,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,15
+Torikumi,7.5,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,24
+Wild Thang,5,N,N,verified,Portsmouth Brewery,North American Origin Ales,Ale,15,25,4,5,3,7,1.045,1.008,1.016,27
+Cream Ale,5,N,N,verified,Laughing Dog Brewing,Hybrid/mixed Beer,Ale,10,22,4.2,5.6,2,5,1.044,1.004,1.01,12
+Huckleberry Cream Ale,5.5,N,N,verified,Laughing Dog Brewing,Hybrid/mixed Beer,Ale,10,22,4.2,5.6,2,5,1.044,1.004,1.01,11.7
+Jenny Scream Ale,5.3,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Ale,10,22,4.2,5.6,2,5,1.044,1.004,1.01,15
+Kilkenny Irish Cream Ale,4.3,N,N,verified,Guinness,Hybrid/mixed Beer,Ale,10,22,4.2,5.6,2,5,1.044,1.004,1.01,29
+Nitro Orange Cream Ale,5.5,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Ale,10,22,4.2,5.6,2,5,1.044,1.004,1.01,15
+Crank Tank Rye'd Ale,6.2,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Ale,10,25,3.8,5,9,22,1.036,1.004,1.016,14
+Summer Rye,5.5,N,N,verified,Portsmouth Brewery,Hybrid/mixed Beer,Ale,10,25,3.8,5,9,22,1.036,1.004,1.016,20
+Oxford Education,7.3,N,N,verified,Oskar Blues Brewery,British Origin Ales,Ale,15,25,4,5.5,13,25,1.04,1.008,1.014,16
+Rye Barrel Aged Cubcrawler,6.4,N,N,verified,Jackalope Brewing Company,British Origin Ales,Ale,10,24,3.2,4,17,34,1.03,1.004,1.008,17
+Beer Camp: Atlantic-Style Vintage Ale (2017),8.5,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,20,40,4.5,5.5,5,5,1.08,1.008,1.016,40
+Golden Flash,5.7,N,N,verified,New Holland Brewing Company,British Origin Ales,Ale,20,40,4.5,5.5,5,5,1.04,1.008,1.016,20
+Northdown,4.1,N,N,verified,Zero Gravity Craft Brewery,British Origin Ales,Ale,20,40,4.5,5.5,5,5,1.044,1.008,1.016,25
+London Calling,3.2,N,N,verified,Zero Gravity Craft Brewery,British Origin Ales,Ale,10,20,3.2,4,8,17,1.03,1.004,1.008,20
+Twisted Cedar,5.8,N,N,verified,New Holland Brewing Company,British Origin Ales,Ale,10,20,3.2,4,8,17,1.03,1.004,1.008,17
+15th Anniversary Ale,10,N,N,verified,SweetWater Brewing Company,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,37
+471 ESB - Extra Special Bitter,7.8,N,Y,verified,Breckenridge Brewery,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,55
+Brown's Point ESB,5.6,N,N,verified,Harmon Brewing Company,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,33
+CSB - How Dogs Say Hello,5.5,N,Y,verified,Laughing Dog Brewing,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,39
+Earth Day EPA,5.2,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,30
+ESB,5.5,Y,N,verified,Portsmouth Brewery,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,32
+Extra ESB - Small Batch Series,7.8,N,N,verified,Breckenridge Brewery,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,38
+Old Chico ESB,5.5,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,35
+Southern Hemisphere Hopped ESB,6,N,N,verified,Oskar Blues Brewery,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,35
+Well Built E.S.B.,7.8,N,N,verified,Breckenridge Brewery,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,31
+Cask-Aid,5.5,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,30,45,4.8,5.8,8,14,1.046,1.01,1.016,40
+All Colorado Apricot Wheat,5.5,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Ale,10,35,3.8,5,2,10,1.036,1.004,1.016,19
+Otra Vez,4.5,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,10,15,4.4,5.4,3,9,1.036,1.008,1.012,13
+Otra Vez Gose With Lime & Agave,4.9,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,10,15,4.4,5.4,3,9,1.036,1.008,1.012,6
+Trip In the Woods: Tequila-Barrel-Aged Otra Vez,7.5,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,10,15,4.4,5.4,3,9,1.036,1.008,1.012,9
+Casper The Friendly Gose,5,N,N,verified,Jackalope Brewing Company,German Origin Ales,Ale,10,15,4.4,5.4,3,9,1.036,1.008,1.012,13
+Hibiscus Strawberry Gose,4,Y,N,verified,Jackalope Brewing Company,German Origin Ales,Ale,10,15,4.4,5.4,3,9,1.036,1.008,1.012,14
+Plum Gose,4.5,N,N,verified,Breckenridge Brewery,German Origin Ales,Ale,10,15,4.4,5.4,3,9,1.036,1.008,1.012,14
+Sour Inc: Apple Rhubarb,4.5,N,N,verified,New Holland Brewing Company,German Origin Ales,Ale,10,15,4.4,5.4,3,9,1.036,1.008,1.012,15
+Steady As She Gose,5.7,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Ale,10,15,4.4,5.4,3,9,1.036,1.008,1.012,14
+Ale Communication,7.8,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,63
+Alejandro Tequila Barrel Aged Gubna,11,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,60
+Blood Shot,8.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,64
+Chardonnay Barrel G'Knight,8.7,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,69
+Dank Tank Red Hot Mama,8.6,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,62
+Fall Ball Red,8,N,N,verified,Harmon Brewing Company,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,56
+G'Knight (Breckenridge Whiskey Barrel Aged),8.7,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,60
+Imperial Red Ale - Beer Camp #65,8.1,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,60
+Maillard's Odyssey,8.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.085,1.02,1.028,40
+Rock Candy Hoppy Red,7.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,75
+Unite Red IPA,4.7,Y,N,verified,Ballast Point Brewing Company,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,85
+Wookie Down,7.6,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,82
+Year of the Dog - Release #1,7.2,N,N,verified,Laughing Dog Brewing,North American Origin Ales,Ale,55,85,7.9,10.5,10,15,1.08,1.02,1.028,73
+Pele (Brazilian Pale Ale),7.1,N,N,verified,New Holland Brewing Company,International Ale Styles,Ale,30,42,4.5,5.5,6,14,1.044,1.008,1.014,38
+Runway IPA,6.2,N,N,verified,Last Name Brewing,International Ale Styles,Ale,30,42,4.5,5.5,6,14,1.063,1.008,1.014,50
+Blue Ridge Red,6.3,N,N,verified,Sierra Nevada Brewing Company,Irish Origin Ales,Ale,20,28,4,4.5,11,18,1.04,1.01,1.014,37
+Guinness Generous Ale,5.6,N,N,verified,Guinness,Irish Origin Ales,Ale,20,28,4,4.5,11,18,1.04,1.01,1.014,28
+Harmon Killerbrew,7.6,N,N,verified,Harmon Brewing Company,Irish Origin Ales,Ale,20,28,4,4.5,11,18,1.04,1.01,1.014,20
+Imperial Red Ale,7.6,N,N,verified,Harmon Brewing Company,Irish Origin Ales,Ale,20,28,4,4.5,11,18,1.04,1.01,1.014,25
+Murphy's Law Red Ale,5,N,N,verified,Portsmouth Brewery,Irish Origin Ales,Ale,20,28,4,4.5,11,18,1.04,1.01,1.014,20
+RIPA,5.9,N,N,verified,New Holland Brewing Company,Irish Origin Ales,Ale,20,28,4,4.5,11,18,1.04,1.01,1.014,24
+Selkie,4.9,N,N,verified,Portsmouth Brewery,Irish Origin Ales,Ale,20,28,4,4.5,11,18,1.04,1.01,1.014,27
+Shameless McDale,4.8,N,N,verified,Last Name Brewing,Irish Origin Ales,Ale,20,28,4,4.5,11,18,1.05,1.01,1.014,22
+Smithwick's Premium Red Ale,4.5,N,N,verified,Guinness,Irish Origin Ales,Ale,20,28,4,4.5,11,18,1.04,1.01,1.014,27
+Beer Camp 013: Old Cantankerous,6.6,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,30,65,6,9,12,30,1.058,1.014,1.03,41
+Cold Nose Winter Ale,4.1,N,Y,verified,Laughing Dog Brewing,British Origin Ales,Ale,30,65,6,9,12,30,1.058,1.014,1.03,45
+Old Ale,6.9,N,N,verified,Zero Gravity Craft Brewery,British Origin Ales,Ale,30,65,6,9,12,30,1.074,1.014,1.03,40
+The Gimp,10.3,N,N,verified,SweetWater Brewing Company,British Origin Ales,Ale,30,65,6,9,12,30,1.058,1.014,1.03,42
+Betsy's Revenge,4.5,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Ale,5,70,2.5,12,5,50,1.03,1.006,1.03,50
+Great Pumpkin,5.5,N,N,verified,Dock Street Brewery,Hybrid/mixed Beer,Ale,5,70,2.5,12,5,50,1.03,1.006,1.03,33
+Ichabod Pumpkin Ale,5.2,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Ale,5,70,2.5,12,5,50,1.05,1.006,1.03,26
+Imperial Pumpkin,8,N,N,verified,Wachusett Brewing Company,Hybrid/mixed Beer,Ale,5,70,2.5,12,5,50,1.03,1.006,1.03,32
+Jack-Ale-Lantern,8,N,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Ale,5,70,2.5,12,5,50,1.03,1.006,1.03,24
+Pumpkin Chub,8,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Ale,5,70,2.5,12,5,50,1.03,1.006,1.03,62
+Black Shack Porter,5.3,N,N,verified,Wachusett Brewing Company,British Origin Ales,Ale,25,40,5,6.5,30,30,1.045,1.008,1.016,45
+Porter Porter,7.5,N,Y,verified,Breckenridge Brewery,British Origin Ales,Ale,25,40,5,6.5,30,30,1.045,1.008,1.016,21
+SweetWater Mean Joe Bean,8.5,N,N,verified,SweetWater Brewing Company,British Origin Ales,Ale,25,40,5,6.5,30,30,1.045,1.008,1.016,27
+Audition - Rye Bock,7.2,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,47
+CANfusion - Beer Camp Across America (2014),7.2,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.072,1.012,1.018,45
+Crye Me A River,5.6,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,46
+Guinness Rye Pale Ale,5,N,N,verified,Guinness,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,45
+LowRYEder IPA,6.2,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,45
+Red Ryeot,6.5,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,41
+Reeb Rye'd PA,7,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,65
+River Ryed Rye IPA,6,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,48
+Rompo Red Rye Ale,5.6,N,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,29
+Ryde Beer,5,N,N,verified,Wachusett Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,22
+Rye Times,8.3,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,44
+Ryeday the 13th,5.5,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,37
+Session Rye,4.5,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,31
+Shamrock'n Rye Ale,6.6,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,38
+Two-Headed Ruthless Rye IPA,9.7,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.056,1.012,1.018,25
+West Latitude Session Rye,5.5,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,20,70,6,7.5,30,40,1.049,1.012,1.018,55
+Brewery Lane Series: Biacre De Garde,9,N,N,verified,Breckenridge Brewery,Belgian And French Origin Ales,Ale,20,30,4.5,8,8,16,1.06,1.012,1.024,26
+GUARD de BEER,7,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,30,4.5,8,8,16,1.06,1.012,1.024,30
+Port Barrel Aged Biere De Garde,10.2,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,30,4.5,8,8,16,1.06,1.012,1.024,15
+Spanglish Fly,8,N,N,verified,Dock Street Brewery,Belgian And French Origin Ales,Ale,20,30,4.5,8,8,16,1.06,1.012,1.024,25
+Trip In the Woods Biere De Garde,9.8,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,30,4.5,8,8,16,1.06,1.012,1.024,10
+17th Saison,9,N,N,verified,SweetWater Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,26
+A Beer Named Sue,5.7,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.051,1.004,1.016,23
+Blueberry Saison,6,Y,N,verified,Jackalope Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,36
+Bobolink,6.7,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.052,1.004,1.016,25
+Bonnaroo Brew,4.8,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,37
+Brass & Blues,6.4,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,24
+Centennial Saison,6,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,27
+Coco Nuts,5,N,N,verified,Dock Street Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,30
+Cool Breeze,4.9,N,N,verified,SweetWater Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,35
+Das Bij,5.6,Y,N,verified,Jackalope Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,26
+Eroica,7.4,N,N,verified,Lagunitas Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,10.8
+Four Witches,7.3,N,N,verified,New Holland Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,39
+Freedom Tickler,6.8,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,24
+Golden Cap Saison Ale,6.25,N,N,verified,New Holland Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.065,1.004,1.016,21
+Hoppy Saison,5,Y,N,verified,Jackalope Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,40
+Hoppy Saison Mancrush,6.4,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,29
+India Farmhouse Ale,7.4,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,29
+Monkey King,5.6,N,N,verified,New Holland Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,23
+Monkey King Saison Farmhouse Ale,6.6,N,N,verified,New Holland Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,25
+Nooice,6.2,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,30
+Oh Saisonna,8.3,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,28
+Ovila Abbey Saison,7.5,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,24
+Ovila Abbey Saison (w/ Mandarin Oranges and Peppercorns),7.5,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,24
+Ovila Wood-Aged Saison,7.8,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,39
+Saison Dans La Maison,5.6,Y,N,verified,Portsmouth Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,20
+Salted Grapefruit Farmhouse Ale,5.2,N,N,verified,Breckenridge Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,36
+Sans Souci,5.9,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,30
+Say Sean Huell Melon Dry Hopped Saison,4,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,24
+Stone Cold Peach,5.6,Y,N,verified,Jackalope Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,30
+Sugarshack Saison,5.1,N,N,verified,Portsmouth Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,15
+Tickled Pink,6.6,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,25
+Why Not?,6.5,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,37
+Winter Saison,5.3,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,23
+Juhlia,7.2,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Ale,20,40,4.5,8.5,4,14,1.055,1.004,1.016,27
+Audition - Scotch Ale,7.3,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,28
+Blantons Barrel Aged Scotch Ale,11.3,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,26
+Buffalo Trace Aged Scotch Ale,11.1,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,32
+Davey Murray's Best Scotch Ale,9.5,N,N,verified,Lagunitas Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,52
+Eagle Rare Barrel Aged Scotch Ale,11.3,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,28
+Hairy Highlander,6.1,Y,N,verified,Jackalope Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,34
+Maple Scotch-Style Ale,7.3,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.071,1.016,1.028,43
+Old Chub,8,N,N,verified,Oskar Blues Brewery,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,25
+Old Chub Nitro,8,N,N,verified,Oskar Blues Brewery,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,25
+Scotch-Style Ale,7.3,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,30
+Trip In The Woods,9.6,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,31
+Trip in the Woods: Maple Scotch,9.8,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,28
+Winter Ale,6.1,N,N,verified,Wachusett Brewing Company,British Origin Ales,Ale,25,35,6.2,8,15,30,1.072,1.016,1.028,23
+Gingerbread Old Chub,8,N,N,verified,Oskar Blues Brewery,British Origin Ales,Ale,12,20,3.5,4,10,19,1.035,1.01,1.014,32
+Tater Ridge - Beer Camp Across America (2014),7,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,12,20,3.5,4,10,19,1.072,1.01,1.014,35
+30th Anniversary - Grand Cru,9.2,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,30,65,7,11,8,21,1.06,1.014,1.04,39
+35th Anniversary  - Brewer's Reserve,8,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,30,65,7,11,8,21,1.06,1.014,1.04,52
+G'Knight Imperial Red IPA,8.7,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Ale,30,65,7,11,8,21,1.06,1.014,1.04,63
+Kings Dish,6.8,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Ale,30,65,7,11,8,21,1.06,1.014,1.04,55
+Little Bohemia,5.3,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Ale,30,65,7,11,8,21,1.06,1.014,1.04,32
+New Holland Brewing 20th Anniversary Ale,20,N,N,verified,New Holland Brewing Company,British Origin Ales,Ale,30,65,7,11,8,21,1.06,1.014,1.04,0
+Born Again Yesterday,7.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,35,70,4.4,5.4,6,14,1.065,1.008,1.014,55
+Celebration Ale,6.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,35,70,4.4,5.4,6,14,1.065,1.008,1.014,65
+Fresh Hop - Mountain Series,6.2,N,N,verified,Breckenridge Brewery,North American Origin Ales,Ale,35,70,4.6,5.4,6,14,1.046,1.008,1.014,57
+Fusion 26,6.65,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,35,70,4.4,5.7,6,14,1.05,1.008,1.014,38
+Harvest Fresh Hop IPA - Southern Hemisphere Harvest,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,35,70,4.2,5.9,6,14,1.068,1.008,1.014,67
+Harvest Wet Hop IPA - Northern Hemisphere Harvest,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,35,70,4.9,6.2,6,14,1.068,1.008,1.014,67
+Hop Dog Fresh Hop Pale,5.6,N,N,verified,Laughing Dog Brewing,North American Origin Ales,Ale,35,70,4.6,5.8,6,14,1.049,1.008,1.014,34.4
+Hop Hunter IPA,6.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,35,70,4.2,6.7,6,14,1.057,1.008,1.014,60
+Hopivore,5.84,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,35,70,5.8,5.3,6,14,1.061,1.008,1.014,55.5
+Michigan Wet-Hopped Harvest Ale,7.6,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,35,70,5.1,7,6,14,1.047,1.008,1.014,70
+Agave Wheat,5.9,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,19
+Chernigivske White,5,N,N,verified,Anheuser-Busch InBev,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,28
+Crank Tank,5.8,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,25
+D07,8.5,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,12
+Fandom Ale Fusion XXXIX,5.5,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,50
+Grass Monkey,5.4,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,35
+Hopfenweisse,5.7,N,N,verified,Zero Gravity Craft Brewery,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,21
+Irish Wheat,5.3,N,N,verified,Guinness,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,31
+Ophelia,6.6,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Ale,10,35,3.8,5,2,10,1.036,1.004,1.016,35
+Rye Hatter,6.12,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.059,1.006,1.018,60
+Summer Ale,4.7,N,N,verified,Wachusett Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.8,5,2,10,1.036,1.004,1.016,11
+Summer Session,5,N,N,verified,Dock Street Brewery,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,33
+Sun Dog Amber Wheat,5.3,N,N,verified,Anheuser-Busch InBev,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,10
+SweetWater SchWheat,4.9,N,Y,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,15
+Tequila Barrel-Aged Ophelia,6.6,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,23
+Unfiltered Wheat Beer,4.4,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,29
+Wet Hopped American Summer,4.8,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,35
+Wheat Of The Moment,5.7,Y,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,25
+Yippe Rye Aye!,5.9,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,20
+Zoomer,4.7,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,23
+Summer Gruit Ale,5.1,N,N,verified,Zero Gravity Craft Brewery,Hybrid/mixed Beer,Ale,10,35,3.5,5.5,4,10,1.036,1.006,1.018,60
+30th Anniversary - Jack & Ken's Ale,10.2,N,Y,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,80
+Barrel-Aged Bigfoot (Whiskey Barrels) (2015),11.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,69
+Batch #2 Barleywine (2015),10.4,N,N,verified,Breckenridge Brewery,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,82
+Beer Camp: Dry-Hopped Barleywine-Style Ale (2017),9.4,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,90
+Bigfoot (1997),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,97
+Bigfoot (1996),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,67
+Bigfoot (1998),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,60
+Bigfoot (2001),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,90
+Bigfoot (2002),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,90
+Bigfoot (2003),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,90
+Bigfoot (2004),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,90
+Bigfoot (2005),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,90
+Bigfoot (2015),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.096,1.024,1.028,90
+Bigfoot (2007),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,90
+Bigfoot (2017),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,81
+Bigfoot (2006),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,78
+Bigfoot (2014),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,84
+Bigfoot (1999),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,74
+Bigfoot (1994),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,66
+Bigfoot (2000),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,68
+Bigfoot (2016),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,90
+Bigfoot (2018),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,90
+Bigfoot Barrel-Aged,12.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,60
+Existential,11.1,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,96
+Fusion 18,10,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,63
+GnarlyWine,10.6,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,79
+Old Double Bagger Barleywine,13.2,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,70
+Portsmouth Barleywine,11,N,N,verified,Portsmouth Brewery,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,100
+Sweetwater Donkey Punch!,10.2,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,91
+Trip in the Woods: Barrel Aged Ginger Bigfoot,11.4,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.09,1.024,1.028,89
+Winter Haze,8.5,N,N,verified,Last Name Brewing,North American Origin Ales,Ale,60,100,8.4,12,11,22,1.088,1.024,1.028,62
+Bigfoot,9.6,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Ale,40,60,8.4,12,14,22,1.085,1.024,1.028,90
+Shipwrecker Circus,10.5,N,N,verified,Oskar Blues Brewery,British Origin Ales,Ale,40,60,8.4,12,14,22,1.085,1.024,1.028,48
+16 So Fine Red Wheat Wine,11,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Ale,45,85,8.4,12,8,15,1.088,1.024,1.032,74
+Pilgrim's Dole,12,N,N,verified,New Holland Brewing Company,North American Origin Ales,Ale,45,85,8.4,12,8,15,1.115,1.024,1.032,30
+Scare City 4 Imperial Wheat Wine,9.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Ale,45,85,8.4,12,8,15,1.088,1.024,1.032,74
+Wheat Wine,11.5,N,N,verified,Portsmouth Brewery,North American Origin Ales,Ale,45,85,8.4,12,8,15,1.088,1.024,1.032,78
+Yadig? Berliner Hopfenweissen,4.3,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Ale,45,85,8.4,12,8,15,1.088,1.024,1.032,35
+Alt Route - Beer Camp Across America (2014),6.6,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Hybrid,25,52,4.3,5.5,11,19,1.057,1.008,1.014,50
+Audition - Altbier,6.6,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Hybrid,25,52,4.3,5.5,11,19,1.044,1.008,1.014,27
+Doppel Sticky,7.7,N,N,verified,Lagunitas Brewing Company,German Origin Ales,Hybrid,25,52,4.3,5.5,11,19,1.075,1.008,1.014,66
+Amber Beer,5,N,N,verified,Dock Street Brewery,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,34
+Avalanche Ale,4.4,N,N,verified,Breckenridge Brewery,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,19
+Budweiser American Ale,5.1,N,N,verified,Anheuser-Busch InBev,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,36
+Censored (Kronik),6.75,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,33
+Censored Imperial Stout,9.9,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,33
+Censored Rich Copper Ale,6.75,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,30
+Flipside Red IPA,6.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.057,1.012,1.018,60
+Fresh Hops of Bel-Air,5.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,35
+Fusion 24,5.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,35
+Hoppy Amber Ale - Mountain Series,6.4,N,N,verified,Breckenridge Brewery,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,39
+Imperial Red Ale,7.8,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,84
+Lucky 13,8.3,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,76.92
+Quinn's Amber Ale,4.8,N,N,verified,Wachusett Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,19
+Red Between the Lines,6.2,N,N,verified,Last Name Brewing,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.064,1.012,1.018,50
+Red-oric - Beer Camp #65 (Best Of Beer Camp: Imperial Red Ale),8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,40
+Revered Red,5.4,N,N,verified,Wachusett Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,33
+Rustiek-Barrel Aged Belgian Amber Ale,9.4,N,N,verified,New Holland Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,38
+Safari Amber,5,N,N,verified,Anheuser-Busch InBev,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,31
+SideCar,5.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,31
+Sundog,4.5,N,N,verified,New Holland Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.053,1.012,1.018,33
+The 1759,9,N,N,verified,Guinness,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,39
+Mach 25 Intergalactic Planetary Ale,5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,35
+Red Tulip,5.25,N,N,verified,New Holland Brewing Company,North American Origin Ales,Hybrid,30,40,4.5,6,11,18,1.048,1.012,1.018,40
+Barrel-Aged Porter,7.4,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,4,6.4,15,26,1.04,1.01,1.018,30
+Grandma's Closet,7.6,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,5,15,15,26,1.04,1.01,1.018,25
+Holidale,7.4,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Hybrid,25,45,5,15,15,26,1.04,1.01,1.018,30
+Holidale (2016),10.3,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Hybrid,25,45,5,15,15,26,1.04,1.01,1.018,38
+Holidale (2017),8.8,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Hybrid,25,45,5,15,15,26,1.04,1.01,1.018,22
+Marilla Trail,10.1,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,5,15,15,26,1.04,1.01,1.018,33
+Ovila Dubbel Barrel-Aged,10.8,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,5,15,15,26,1.04,1.01,1.018,40
+Single Barrel Rompo,6.2,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,5,15,15,26,1.04,1.01,1.018,37
+Well Built,8.8,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Hybrid,25,45,5,15,15,26,1.04,1.01,1.018,55
+Buffalo Trace Barrel-Aged Bearwalker,9.3,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,3.75,6.5,15,26,1.04,1.01,1.018,25
+Dragon's Milk Reserve: Raspberry Lemon,11,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,3.75,6.5,15,26,1.04,1.01,1.018,26
+Dragon's Milk Reserve with Raspberries,11,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,3.75,6.5,15,26,1.096,1.01,1.018,31
+Trip in the Woods NARWHAL,9.8,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,3.75,6.5,15,26,1.04,1.01,1.018,43
+Fils à Papa IV,6.5,N,N,verified,Brouwerij De Leite,Hybrid/mixed Beer,Hybrid,25,45,4,12,15,26,1.096,1.01,1.018,35
+Incorrigible Reserve,4.5,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,5,11,15,26,1.04,1.01,1.018,5
+Sour Cherry Ten FIDY,10,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Hybrid,25,45,4,13,15,26,1.04,1.01,1.018,33
+The Pit & The Pendulum with Cherries,6.1,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,5,12,15,26,1.096,1.01,1.018,12
+WTFarmhouse,8.41,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,4,12,15,26,1.04,1.01,1.018,33
+19 - Golden Belgian Style Ale,7,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,25,45,5,12,15,26,1.04,1.01,1.018,33
+Johnny Appleseed,5.5,N,N,verified,Anheuser-Busch InBev,"Mead, Cider, & Perry",Hybrid,8,20,5,8,5,7,1.045,1,1.02,15
+Hop-Scotch,6.2,N,N,verified,Zero Gravity Craft Brewery,"Mead, Cider, & Perry",Hybrid,8,20,6,9,4,8,1.05,0.995,1.01,14
+21st Anniversary,7.9,N,N,verified,SweetWater Brewing Company,Belgian And French Origin Ales,Hybrid,15,25,4.8,6.5,12,20,1.044,1.008,1.016,7
+Cuvee Mam'zelle,8.5,N,N,verified,Brouwerij De Leite,Belgian And French Origin Ales,Hybrid,15,25,4.8,6.5,12,20,1.044,1.008,1.016,21
+Spinnerbait,6,N,N,verified,SweetWater Brewing Company,Belgian And French Origin Ales,Hybrid,15,25,4.8,6.5,12,20,1.044,1.008,1.016,25
+Blue,4.6,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,12
+Blueberry Ale,4.5,N,N,verified,Wachusett Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,10
+Blueberry Porter,8,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,5
+Bud Light Blends Lemon,3.5,N,N,verified,Anheuser-Busch InBev,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,67
+Bud Light Radler - Grapefuit,2.4,N,N,verified,Anheuser-Busch InBev,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,8
+Buddha's Hand - Mountain Series,6,N,N,verified,Breckenridge Brewery,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,18
+Envious (2012),7.5,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.0703,1.006,1.03,13
+Gr8ful Anniversary Ale,5.2,N,N,verified,Zero Gravity Craft Brewery,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,19
+kolsch TEST DUMMIES,6.4,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,48
+Lost Dune,5.5,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.053,1.006,1.03,30
+Passion Blaster,6,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,15
+Peach/Blueberry Hefeweizen,8,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,53
+Rascal's Wild Red,8,N,N,verified,Anheuser-Busch InBev,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,31
+Shadow's Wild Black,8,N,N,verified,Anheuser-Busch InBev,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,55
+Wango Mango,6,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,48
+Witbier with Grapefruit,7,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,22
+Wild Blue Blueberry Lager,8,N,N,verified,Anheuser-Busch InBev,Belgian And French Origin Ales,Hybrid,15,21,5.6,8.6,16,25,1.04,1.008,1.016,15
+Four Roses Rompo,6.2,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Hybrid,10,15,4.9,5.5,4,25,1.047,1.008,1.016,11
+Hurricane,5.9,N,N,verified,Anheuser-Busch InBev,North American Lager,Hybrid,12,23,6.25,7.5,2,5,1.05,1.004,1.01,20
+Hurricane High Gravity,8,N,N,verified,Anheuser-Busch InBev,North American Lager,Hybrid,12,23,6.25,7.5,2,5,1.05,1.004,1.01,17
+King Cobra,6,N,N,verified,Anheuser-Busch InBev,North American Lager,Hybrid,12,23,6.25,7.5,2,5,1.05,1.004,1.01,19
+Sweetwater Dank Tank Big Ol' Belgian Blue Balls,9,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,5,85,2.5,12,1,100,1.03,1.006,1.03,63
+Puff The Magic Cyser,8.5,N,N,verified,New Holland Brewing Company,"Mead, Cider, & Perry",Hybrid,5,85,2.5,12,1,100,1.03,1.006,1.03,47
+Rye Way 117,7.4,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,12,1,100,1.03,1.006,1.03,41
+Christmas Jam,4.2,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,10,30,4,5.1,2,2,1.034,1.004,1.01,23
+Fusion 16,4.8,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,10,30,4,5.1,2,2,1.034,1.004,1.01,54
+Pacific Daylight,3.9,N,N,verified,Last Name Brewing,Hybrid/mixed Beer,Hybrid,10,30,4,5.1,2,2,1.038,1.004,1.01,11
+Xtra Time,4.4,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,10,30,4,5.1,2,2,1.034,1.004,1.01,11
+Smoke on The Water,7,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Hybrid,20,40,5,8.7,20,20,1.04,1.006,1.014,25
+Triple Smoked Cubcrawler,6,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Hybrid,20,40,5,8.7,20,20,1.04,1.006,1.014,38
+Beer Camp: Dry-Hopped Berliner-Style Weisse (2017),4.2,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Hybrid,3,6,2.8,3.4,2,4,1.036,1.004,1.006,10
+Bernie Weisse,3.2,N,N,verified,Zero Gravity Craft Brewery,German Origin Ales,Hybrid,3,6,2.8,3.4,2,4,1.031,1.004,1.006,5
+Citrus And Vanilla Berlinerweisse,4.7,N,N,verified,Portsmouth Brewery,German Origin Ales,Hybrid,3,6,2.8,3.4,2,4,1.028,1.004,1.006,0
+Johnny Berliner,4,N,N,verified,Dock Street Brewery,German Origin Ales,Hybrid,3,6,2.8,3.4,2,4,1.028,1.004,1.006,5
+Aunt Sally,5.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.061,1.008,1.016,15
+Blue Sunday,7,N,N,verified,New Holland Brewing Company,North American Origin Ales,Hybrid,9,23,6.3,8.9,6,13,1.049,1,1.01,18
+Cherry Jane,5.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.063,1.008,1.016,9
+Dark Swan,8.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.052,1.008,1.016,16
+De Achste Hond Peach Sour,7,N,N,verified,Laughing Dog Brewing,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.063,1.008,1.016,27
+Funk Vessel,6.5,N,N,verified,New Holland Brewing Company,North American Origin Ales,Hybrid,9,23,6.3,8.9,6,13,1.049,1,1.01,15
+Hop And Sour,4.4,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.047,1.008,1.016,16
+Incorrigible,4.5,N,N,verified,New Holland Brewing Company,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.072,1.008,1.016,3
+Mungo Berry,4.8,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,Hybrid,9,23,6.3,8.9,6,13,1.049,1,1.01,16
+Plum Jasmine Gose,9.6,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.052,1.008,1.016,19
+Sour Inc: Honey Ginger,4.5,N,N,verified,New Holland Brewing Company,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.058,1.008,1.016,16
+Sour Pineapple,6.1,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.053,1.008,1.016,16
+Strawberry Moon,4.3,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,Hybrid,9,23,6.3,8.9,6,13,1.043,1.008,1.016,10
+Summer in Berlin,5,N,N,verified,Dock Street Brewery,North American Origin Ales,Hybrid,9,23,6.3,8.9,6,13,1.049,1.01,1.02,22
+Tropical Lover,4.3,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Hybrid,15,21,5,8.9,6,13,1.071,1.008,1.016,17
+Cambium,5.8,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,15,21,5,8.9,6,13,1.055,1.002,1.006,20
+Cherry Hotside Sour,4.8,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,15,21,5,8.9,6,13,1.063,1.007,1.012,16
+Cuvée Jeune Homme,6.5,N,N,verified,Brouwerij De Leite,Hybrid/mixed Beer,Hybrid,15,21,5,8.9,6,13,1.055,1.002,1.016,17
+Funkytown,6,N,N,verified,Zero Gravity Craft Brewery,Hybrid/mixed Beer,Hybrid,9,23,6.3,8.9,6,13,1.049,1,1.01,17
+HotSide Sour Mashed DayTime,4.65,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,9,23,6.3,8.9,6,13,1.05,1,1.01,16
+Mischievous,5.5,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,9,23,6.3,8.9,6,13,1.055,1,1.01,14
+The Pit & The Pendulum,8.3,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,9,23,6.3,8.9,6,13,1.051,1,1.01,30
+Through the Brambles,6.3,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,9,23,6.3,8.9,6,13,1.049,1,1.01,2
+ABLE Best Britter,4.3,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Hybrid,28,40,4.1,4.8,6,14,1.038,1.006,1.012,39
+Balls Deep,9,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,25
+Brux,8.3,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,91
+CAUTE DE CHAMPLAIN,6.1,N,N,verified,Zero Gravity Craft Brewery,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.055,1.006,1.03,33
+Dry-Hopped Censored Ale,6.7,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,34
+el Mole Ocho (2011),8.4,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,47
+Estate Ale,6.7,Y,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.069,1.006,1.03,67
+Fusion 22,7.8,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,56
+Holiday Ale (2011),7.6,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,63.21
+Holiday Leftovers Ale,7.6,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,63.21
+Hop Smack Double,8.1,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,22
+Oskar the GasRauch,8.5,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,21
+Sacramento Beer Week Beer,9,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,14
+Sakitumi,9,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,42
+Solar Coaster,6.1,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.03,1.006,1.03,28
+Terra Incognita,8.5,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,100,2.5,25,1,100,1.069,1.006,1.03,38.5
+Beer Camp: Raspberry Sundae Ale (2017),8,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.076,1.006,1.03,10
+Beer Camp: Thai-Style Iced Tea (2017),7.2,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.075,1.006,1.03,12
+Bud Extra,6.6,N,N,verified,Anheuser-Busch InBev,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,31
+Christmas Chub,8,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,28
+El Mole Ocho,10,N,N,verified,New Holland Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,16.4
+Festive Ale (2013),8.5,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,25
+Jack's Pumpkin Spice Ale,5.5,N,N,verified,Anheuser-Busch InBev,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,42
+SweetWater Festive Ale,8.5,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,66
+Wintertide Ale,6,N,N,verified,Sierra Nevada Brewing Company,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,20
+XMas Chub,8,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Hybrid,5,70,2.5,12,5,50,1.03,1.006,1.03,53
+Zepher Ale,7.9,N,N,verified,Lagunitas Brewing Company,Hybrid/mixed Beer,Hybrid,35,45,4.6,5.7,8,15,1.045,1.056,1.056,38
+2017 Beer Camp (2017),6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,50
+420 Strain G13 IPA,6,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,48
+471 Small Batch IPA,9.2,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,70
+5 C's IPA,6.5,N,N,verified,Portsmouth Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,65
+Anniversary Ale,5.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,70
+Anniversary Ale 2007,5.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,54
+Anniversary Ale 2009,5.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,63
+Barrel-Aged Hoptimum  (Trip in the Woods),11.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,55
+Barrel-Aged Torpedo Extra IPA,8.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,61
+Bayside Black IPA,7.1,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,61
+Beer Camp Golden IPA (2017),6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.062,1.012,1.018,50
+Beer Camp Tropical IPA (2015),6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.065,1.012,1.018,55
+Beer Camp: East Meets West IPA (2017),7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.066,1.012,1.018,40
+Beer Camp: White IPA with Yuzu (2017),7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.065,1.012,1.018,20
+Bing Bing,6.8,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,52
+Black IPA,6.5,Y,N,verified,Portsmouth Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,56
+Black IPA,6.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Blue Dream,6.4,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Boomerang,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Bottle Rocket IPA,6.5,N,N,verified,Portsmouth Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Breck IPA,6.3,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Bretthead,6.1,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.055,1.012,1.018,49
+Brown Eyed Buckeye,8.6,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Citra IPL,5.2,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Conehead,5.7,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.055,1.012,1.018,49
+Dank Tank: Smokey and the Brett,7.3,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,55
+Deviant Dale's,8,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,85
+Dire Wolf,6.2,N,N,verified,Jackalope Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,79
+DogZilla Black IPA,6.9,N,N,verified,Laughing Dog Brewing,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,68.4
+Drink This IPA,6.1,N,N,verified,Harmon Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Fat Slim,5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,55
+Five Hop - Experimental IPA,5.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.055,1.012,1.018,60
+Floral IPA - Beer Camp #53,5.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Fresh Hop IPA,6.4,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,58
+Fugli,5.8,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,60
+Fusion 21,4.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,40
+Fusion 23,7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Fusion 32,7.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Fusion 48,8.3,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Fusion 49,6.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Fuzzworthy,5.9,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+G'Afternoon,6,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,60
+German Style IPA,6.1,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,45
+Goin' Coastal,6.1,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Golden IPA,5.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.056,1.012,1.018,55
+Green Monsta IPA,7.3,N,N,verified,Wachusett Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,55
+Grizzly Imperial Pale Ale,8.1,N,N,verified,Portsmouth Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,85
+Guinness Nitro IPA,5.8,N,N,verified,Guinness,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,40
+Harvest Brewers Select IPA (2016),6.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Harvest Newly Developed Hop IPA (2015),6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,55
+Harvest Single Hop IPA - Equinox Hops,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.064,1.012,1.018,55
+Harvest Single Hop IPA - Idaho 7 Varietal,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.064,1.012,1.018,55
+Harvest Single Hop Mandarina Hops,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Harvest Single Hop Yakima #291,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,55
+Harvest Wild Hop IPA - Neomexicanus Varietal,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.064,1.012,1.018,55
+Hatchery Series #5 - NE Style IPA,7.5,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Hatchery Series 1 - Mosaic Hop IPA,6.4,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66
+Hazy Little Thing,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,40
+Holiday Haze,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,40
+Hop Harmony,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,68
+Hop Peak,6.5,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,56
+Hoppy Anniversary IPA,5.9,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,64
+Hoppy Floppy,7.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,64
+Hoppy Wheat IPA,6.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,52
+Hoptinite,8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,64
+Hotbox Coffee IPA,7.2,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,70
+IceyPA,7,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,68
+India Pale Ale IPA,6.4,N,N,verified,Laughing Dog Brewing,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,66.5
+Interstate SMASH Express - Calypso,7.1,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,63
+IPA,5.6,N,N,verified,Wachusett Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,50
+IPA with Rosemary,5.3,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,58
+Juicy Dust,6.2,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,56
+Kill Ugly Radio,7.8,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,57
+Lagunitas IPA,6.2,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.059,1.012,1.018,45.6
+Larry Imperial IPA,8.5,N,N,verified,Wachusett Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,85
+Leghorn Rye IPA,6,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,65
+Light IPA,4,N,N,verified,Wachusett Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,37
+Little Birdy,6.9,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,63
+Lolo IPA,6.4,Y,N,verified,Portsmouth Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,60
+Long Steam IPA,5.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,54
+Lucky U IPA,6.2,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,68
+Lupu Lava Tropical IPA,6.8,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,68
+Mad Hatter IPA,7,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.067,1.012,1.018,55
+Maximus,8.2,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.08,1.012,1.018,72.4
+Michigan Hatter,4.8,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,70
+Mid Winter India Pale Ale,6,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,64
+Mozango,7.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.07,1.012,1.018,49
+Narconaut,6.6,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.072,1.012,1.018,70
+Neomixicanus,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,69
+Nice Things IPA,6.4,N,N,verified,Dock Street Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,37
+Nitro Lucky U IPA,5.7,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,68
+No Middle Ground,6.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,45
+Nooner Session IPA,4.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.047,1.012,1.018,40
+Now You Know,6.1,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,51
+NXS,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,54
+Oskar Blues IPA,6.43,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,70
+Peach IPA,5.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,58
+Point Defiance IPA,6.1,N,N,verified,Harmon Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,70
+R. Prime,6.2,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.065,1.012,1.018,65
+Renee IPA,6.7,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.065,1.012,1.018,80
+Return of the Red Eye IPA,6.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,58
+Rocket Dog Rye I.P.A,6.9,N,N,verified,Laughing Dog Brewing,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,62
+Rockin Blues IPA,7,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,53
+Ruthless Rye IPA,6.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.062,1.012,1.018,55
+Ruthlessly Delicious,6.2,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,52
+Rye IPA,6.8,N,N,verified,Dock Street Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,54
+Second Helping IPA,7.4,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,51
+Sidcar Orange IPA,6.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.011,1.012,1.018,35
+Sierra Nevada Torpedo Cask,7.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,59
+Single Hop Amarillo IPA,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,50
+Single Hop Cascade IPA,6.3,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.059,1.012,1.018,45
+Single Hop Series: Liberty,5,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,44
+Six Rights IPA -  Beer Camp,8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,52
+Snow Cone IPA,7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,59
+Snow Wit,5.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.055,1.012,1.018,40
+Solar Storm - Beer Camp #71,5.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,62
+Spinner,5.6,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,54
+Squeeze Box,6.1,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,45
+Sticky Icky,6.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,80
+Strawberry White Pale Ale,5.1,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,50
+SweetWater IPA,6.3,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,61
+T.L.A. I.P.A.,5.7,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.059,1.012,1.018,75
+Tangerine Space Machine,6.8,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,65
+Tasmanian Hatter,7,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.058,1.012,1.018,55
+Taz IPA,6,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,50
+The White Buffalo,6,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,63
+Torpedo Extra IPA,7.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,65
+TripleTail,5.5,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,57
+Tropical Torpedo,6.7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.065,1.012,1.018,55
+Wachusetts IPA,5.6,N,N,verified,Wachusett Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,50
+Wally,7,N,N,verified,Wachusett Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,70
+Warrior Bomb,5,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,80
+Whiplash,6.3,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,55
+White IPA - Asheville Beer Week (2014),5.5,N,Y,verified,Oskar Blues Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,64
+White Lightning,6.5,Y,N,verified,Portsmouth Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,25
+Wicked Wheat IPA,5.6,Y,N,verified,Portsmouth Brewery,North American Origin Ales,IPA,50,70,6.3,7.5,6,14,1.06,1.012,1.018,50
+Fusion 36: London Confusion,6.5,N,N,verified,Lagunitas Brewing Company,British Origin Ales,IPA,35,63,5,7,6,14,1.05,1.012,1.018,44
+Wicket IPA,5.4,N,N,verified,Zero Gravity Craft Brewery,British Origin Ales,IPA,35,63,5,7,6,14,1.056,1.012,1.018,40
+20th Anniversary Imperial Hash IPA on Brett,9,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,81
+420 Fest,8,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,99
+471 Double IPA - Hull Melon,9.2,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,66
+471 IPA Barrel Series: Citra,11.3,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,70
+471 IPA Barrel Series: Eureka!,11.2,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,70
+471 IPA. Aggressive Hoppiness,9.2,N,Y,verified,Breckenridge Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,70
+A Little Sumpin' Extra,8.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,90
+Alpha Dog Imperial IPA,8.5,N,N,verified,Laughing Dog Brewing,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,127
+Audition - Double IPA,8.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,95
+Barrel Aged 471 IPA. Aggressive Hoppiness,9.2,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,70
+Beer Camp Across America (2014),8.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,84
+Beer Camp: West Coast DIPA (2017),8.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,65
+Bitter Oats,10.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,86
+Cherry Chocolate Stout,8.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,76
+Choice Make Good,8.3,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.083,1.012,1.02,95
+Dank Tank Border Hopper,8.6,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,67
+Dank Tank Ghoulash,8.5,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.087,1.012,1.02,167
+Devil Dog Imperial IPA,10.8,N,N,verified,Laughing Dog Brewing,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,99
+Devils Double,8,N,N,verified,Dock Street Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,87
+Diggler Double IPA,8,N,N,verified,Portsmouth Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,85
+Electric Ray,8.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.074,1.012,1.02,70
+Experimental Hop Double IPA,8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,65
+Fresh Hop Double IPA,8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,77
+Fresh Sticky Nugs,8,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,60
+Fusion 20,9,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,65
+Fusion 40,8.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,91
+Fusion 9,5.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,79
+G'Knight,8.7,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,85
+Grand Royal,8.3,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,80
+Gubna,10,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,100
+Gubna Barrel Aged,11,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,100
+Gubna Imperial IPA,10,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,89
+Hop Bullet IPA,8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,50
+Hop Hash,7.8,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,100
+Hop Stoopid,8,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,102
+Hoptimum (2018),9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,68
+Hoptimum,10.4,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,100
+Hoptronix,9,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,70
+Imperial Hatter,9.4,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.083,1.012,1.02,76
+Imperial Plum IPA,9,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,57
+Imperial White IPA - Brewery Lane Series,9,N,N,verified,Breckenridge Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,67
+Johnny Hash - Dank Tank,8.5,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,90
+Larry,7.5,N,N,verified,Wachusett Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,81
+Mad Catter,7,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,80
+Madonna,8,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.083,1.012,1.02,90
+Moxee-Moron,7.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.072,1.012,1.02,70
+Mozango (Fusion XXXI),9,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,73
+NxS IPA,9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,83
+Oak Aged Mad Hatter India Pale Ale,7.22,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.05,1.012,1.02,62
+One Hit Wonder Imperial IPA,8.2,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,93
+Pimp My Ride,7.8,N,N,verified,Dock Street Brewery,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,69
+Rhizing Bines,8,N,Y,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,70
+Single Hop Mosaic Double IPA,6.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,47
+Sneaky Pete,10,N,N,verified,Laughing Dog Brewing,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,73
+Sucks,8,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.085,1.012,1.02,63.21
+Super Cluster,8,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,86
+The Art Of Chaos,9,N,N,verified,New Holland Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,85
+The Waldosa's Special Ale (2018),11.3,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,100
+Waldo's Special Ale,11.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,84
+Hop Secret 644,7.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,48
+Pitch-A-Tent,9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,46
+Sleight of Hand,8.3,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,65,100,7.5,10.5,5,13,1.075,1.012,1.02,67
+Hazy Memory,7.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,4,7,1.06,1.008,1.016,70
+New England IPA,7.5,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,4,7,1.06,1.008,1.016,54
+Passion Fruit Milkshake Ipa,6.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,50,70,6.3,7.5,4,7,1.06,1.008,1.016,62
+11.5A PLATO,4.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.046,1.01,1.014,35
+3 Weight,4,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,53
+DayTime Ale,4.65,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,54.2
+Experimental Hop Session IPA,4.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,41
+Gravenstime,4.6,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,56
+Hash Session IPA,4.2,N,N,verified,SweetWater Brewing Company,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,46
+Juicy Wolf,4.8,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,54
+Passion Fruit Pinner,4.9,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,40
+Pinner Throwback IPA,4.9,N,N,verified,Oskar Blues Brewery,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,35
+Single Hop El Dorado Session IPA,4.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,35
+Southern Hemisphere Session IPA,4.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,40
+VT Haze,4.1,N,N,verified,Zero Gravity Craft Brewery,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,40
+Wally Junior,4.5,N,N,verified,Wachusett Brewing Company,North American Origin Ales,IPA,35,60,3.5,4,3,5,1.035,1.01,1.014,60
+Black Crown,6,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,18,30,4.8,5.4,6,14,1.042,1.01,1.018,22
+Budweiser 1933 Repeal Reserve,6.1,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,18,30,4.8,5.4,6,14,1.042,1.01,1.018,19
+Budweiser Copper Lager,6.2,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,18,30,4.8,5.4,6,14,1.042,1.01,1.018,25
+Budweiser Freedom Reserve,5.4,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,18,30,4.8,5.4,6,14,1.042,1.01,1.018,26
+Fumble Brewski,4.5,N,N,verified,Oskar Blues Brewery,North American Lager,Lager,18,30,4.8,5.4,6,14,1.042,1.01,1.018,25
+Oktober-Fiesta,5.5,N,N,verified,Last Name Brewing,North American Lager,Lager,18,30,4.8,5.4,6,14,1.057,1.01,1.018,25
+Pomona Queen,4.8,N,N,verified,Last Name Brewing,North American Lager,Lager,18,30,4.8,5.4,6,14,1.048,1.01,1.018,13
+Uncle Bert's Farm Market Red,5.6,N,N,verified,New Holland Brewing Company,North American Lager,Lager,18,30,4.8,5.4,6,14,1.042,1.01,1.018,29
+ZiegenBock Amber,4.9,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,18,30,4.8,5.4,6,14,1.042,1.01,1.018,29
+Black Lager (Hatchery Series Release #3),5,N,N,verified,SweetWater Brewing Company,North American Lager,Lager,14,20,4,5.5,14,25,1.04,1.008,1.012,18
+California Black Beer,4.9,N,N,verified,Last Name Brewing,North American Lager,Lager,14,20,4,5.5,14,25,1.05,1.008,1.012,10
+Daytona Dark Wheat Lager (Batch No. 32218),5,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,14,20,4,5.5,14,25,1.04,1.008,1.012,16
+Busch Ice,5.9,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,7,20,4.75,6.25,2,8,1.04,1.006,1.014,7
+1904 American Red Lager,5,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,11
+Beer Camp Hoppy Lager,7,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,55
+Beer Camp: Ginger Lager (2017),6.2,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,5,13,3.8,5,2,4,1.056,1.006,1.01,20
+Budweiser,5,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,9
+Budweiser Chelada,5,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,10
+Busch,4.6,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,9
+Busch Signature Copper Lager,5.7,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,6
+Cornlaboration,5.8,N,N,verified,Oskar Blues Brewery,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,13
+Guinness Blonde,5,N,N,verified,Guinness,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,21
+Lagunator,7.9,N,N,verified,Lagunitas Brewing Company,North American Lager,Lager,5,13,3.8,5,2,4,1.076,1.006,1.01,42.2
+Mash Appeal,4.3,N,N,verified,Oskar Blues Brewery,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,19
+Noble Hopped Lager (Batch No. 32218),5,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,7
+Oculto,6,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,8
+Russ' Revival,5.3,N,N,verified,New Holland Brewing Company,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,5
+Single Hop Citra IPL,5.5,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,13
+Six Grain Harvest Lager (Batch No. 63118),5.5,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,7
+Summerfest,5,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,28
+Tettang Lager,4.9,Y,N,verified,Jackalope Brewing Company,North American Lager,Lager,5,13,3.8,5,2,4,1.04,1.006,1.01,8
+Bud Dry,5,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,5
+Bud Light,4.2,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,10
+Bud Light Apple,4.2,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,8
+Bud Light Chelada,4.2,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,9
+Bud Light Lime,4.2,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,8
+Bud Light Orange,4.2,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,8
+Bud Light Platinum,6,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,6
+Budweiser Select,4.3,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,10
+Busch Light,4.1,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,8
+High Life Light,4.5,N,N,verified,Miller Brewing Company,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,5
+Miller Chill,4.1,N,N,verified,Miller Brewing Company,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,8
+Miller Genuine Draft,4.66,N,N,verified,Miller Brewing Company,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,10
+Miller High Life,5,N,N,verified,Miller Brewing Company,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,10
+Miller Lite,4.2,N,N,verified,Miller Brewing Company,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,11
+Miller64,2.8,N,N,verified,Miller Brewing Company,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,7
+Natty Daddy,8,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,8
+Natural Ice,5.9,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,6
+Natural Light,4.2,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,7
+Select 55,4,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,9
+Two Hats Lime,4.2,N,N,verified,Miller Brewing Company,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,7
+Two Hats Pineapple,4.2,N,N,verified,Miller Brewing Company,North American Lager,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,8
+Hatchery Series 2 Mexican Style Lager,4.8,N,N,verified,SweetWater Brewing Company,Hybrid/mixed Beer,Lager,5,10,3.5,4.4,2,4,1.024,1.002,1.008,10
+Bud Light Lime Mang-O-Rita,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,11,13,4,6,2,4,1.04,1.006,1.01,5
+Bud Light Straw-Ber-Rita,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,8,13,3.8,6,2,4,1.04,1.006,1.01,5
+Cran-Ber-Rita,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,9,11,4,6,2,4,1.04,1.006,1.01,5
+GRAPE-A-RITA,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,10,12,4,6,2,4,1.04,1.006,1.01,5
+Lime-a-Rita,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,11,13,4,6,2,4,1.04,1.006,1.01,5
+Mixxtail Firewalker,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,8,13,5,6,2,4,1.04,1.006,1.01,5
+Mixxtail Long Island Iced Tea,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,9,14,4,6,2,4,1.04,1.006,1.01,5
+Peach-a-Rita,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,11,13,4.2,5.7,2,4,1.04,1.006,1.01,5
+Pine-Apple-Rita,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,8,13,4,6,2,4,1.04,1.006,1.01,5
+Raz-Ber-Rita,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,9,13,3,6,2,4,1.04,1.006,1.01,5
+Water-melon-Rita,8,N,N,verified,Anheuser-Busch InBev,Malternative Beverages,Lager,10,13,4,6,2,4,1.04,1.006,1.01,5
+Centennial Hop Mountain Marzen (Batch No. 80524),5.9,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,20,30,5.3,5.9,4,15,1.05,1.012,1.02,28
+Festival Bier,6,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,20,30,5.3,5.9,4,15,1.05,1.012,1.02,28
+Oktoberfest (2015),6,N,Y,verified,Sierra Nevada Brewing Company,North American Lager,Lager,20,30,5.3,5.9,4,15,1.05,1.012,1.02,30
+Oktoberfest (2018),6,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,20,30,5.3,5.9,4,15,1.056,1.012,1.02,20
+Oktoberfest,5.3,N,N,verified,New Holland Brewing Company,North American Lager,Lager,20,30,5.3,5.9,4,15,1.05,1.012,1.02,26
+Oktoberfest (2014),6.2,N,Y,verified,Sierra Nevada Brewing Company,North American Lager,Lager,20,30,5.3,5.9,4,15,1.05,1.012,1.02,30
+Oktoberfest Marzen Lager,5.4,N,N,verified,Zero Gravity Craft Brewery,North American Lager,Lager,20,30,5.3,5.9,4,15,1.059,1.012,1.02,26
+TuberFest,7.5,N,N,verified,Lagunitas Brewing Company,North American Lager,Lager,20,30,5.3,5.9,4,15,1.075,1.012,1.02,45
+'Murican Pilsner,5.5,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,36
+471 Pilsner,5,N,N,verified,Breckenridge Brewery,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,39
+7 Birds,5,Y,N,verified,Jackalope Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,13
+7 Cities Pilsner,5,Y,N,verified,Jackalope Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,32
+Audition - Imperial Pilsner,8,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,37
+Audition - Pilsner,5.2,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,39
+Barrel Aged Mama's Mama's Little Yella Pils (Tequila),5.3,N,N,verified,Oskar Blues Brewery,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,35
+Dry Hopped Coastal Pilsner (Batch No. 23185),6,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,30
+EXPERIMENTAL HOP PILSNER,5.5,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,46
+Foam Pilsner,5.6,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,34
+Green State Lager,4.9,N,N,verified,Zero Gravity Craft Brewery,North American Lager,Lager,25,40,5,6,3,6,1.049,1.012,1.018,25
+Imperial Pils,8.6,N,N,verified,Lagunitas Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.074,1.012,1.018,57
+Imperial Pilsner - Beer Camp #43,5.6,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,29
+Nooner Pilsner,5.2,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,38
+Premium 219 Pilsner,4.7,N,N,verified,Laughing Dog Brewing,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,38
+Regal Pilsner,7,N,N,verified,Breckenridge Brewery,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,45
+Scare City 1,7.5,N,N,verified,Lagunitas Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,60
+Summer Pils,5,N,N,verified,Breckenridge Brewery,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,39
+SweetWater Road Trip,5.2,N,N,verified,SweetWater Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,36
+Torpedo Pilsner - Beer Camp Across America (2014),5.2,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,25,40,5,6,3,6,1.048,1.012,1.018,45
+Tropical Mama's,5.3,N,N,verified,Oskar Blues Brewery,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,40
+Two-One Niner,4.8,N,N,verified,Laughing Dog Brewing,North American Lager,Lager,25,40,5,6,3,6,1.045,1.012,1.018,9.4
+Bud Ice,5.5,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,11
+Bud Ice Light,4.1,N,N,verified,Anheuser-Busch InBev,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,8
+Dark Wheat,5.6,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,12
+Electric Ray - Beer Camp Across America (2014),8.5,N,N,verified,Sierra Nevada Brewing Company,North American Lager,Lager,6,15,4.3,5,2,6,1.074,1.01,1.014,70
+Green Valley Wild Hop Lager,5,Y,N,verified,Anheuser-Busch InBev,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,8
+Harp Lager,5,N,N,verified,Guinness,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,11
+Harp Premium Imported Lager,4.5,N,N,verified,Guinness,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,14
+Hop House Lager,5,N,N,verified,Guinness,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,6
+Liger Lager,6.9,N,N,verified,Portsmouth Brewery,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,13
+Miller Fortune,6.9,N,N,verified,Miller Brewing Company,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,13
+Mountain Wheat,5.4,N,N,verified,Breckenridge Brewery,North American Lager,Lager,6,15,4.3,5,2,6,1.044,1.01,1.014,12
+Sweet Sunny South,4.9,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Lager,5,15,0.5,3.5,5,50,1.045,1.004,1.034,23
+Blizzicane Bock,7.7,N,N,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,20,30,6.3,7.5,20,30,1.066,1.018,1.024,29
+Chewbocka,6.2,N,N,verified,Zero Gravity Craft Brewery,European-germanic Lager,Lager,20,30,6.3,7.5,20,30,1.071,1.018,1.024,20
+Old CHico Pale Bock,6.8,N,N,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,20,30,6.3,7.5,20,30,1.066,1.018,1.024,40
+Pandora's Bock,7.5,N,Y,verified,Breckenridge Brewery,European-germanic Lager,Lager,20,30,6.3,7.5,20,30,1.066,1.018,1.024,16
+Charkoota Rye (2012),9.35,N,N,verified,New Holland Brewing Company,European-germanic Lager,Lager,17,27,6.5,8,12,30,1.101,1.014,1.02,27
+Charkoota Rye (2011),8.4,N,N,verified,New Holland Brewing Company,European-germanic Lager,Lager,17,27,6.5,8,12,30,1.079,1.014,1.02,21
+Doppelbock,9.5,N,N,verified,Oskar Blues Brewery,European-germanic Lager,Lager,17,27,6.5,8,12,30,1.074,1.014,1.02,21
+Double DeBOCKel,9.4,N,N,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,17,27,6.5,8,12,30,1.074,1.014,1.02,19
+Obliterator,10.5,N,N,verified,Oskar Blues Brewery,European-germanic Lager,Lager,17,27,6.5,8,12,30,1.074,1.014,1.02,20
+The Mutilator,7,N,N,verified,Oskar Blues Brewery,European-germanic Lager,Lager,17,27,6.5,8,12,30,1.074,1.014,1.02,21
+Blue Goat,7.5,N,N,verified,New Holland Brewing Company,European-germanic Lager,Lager,17,27,6.5,8,12,30,1.074,1.014,1.02,21
+Barrel Aged Nuovo Record,13.5,N,N,verified,New Holland Brewing Company,German Origin Ales,Lager,15,35,6.9,9.3,5,30,1.066,1.016,1.028,15
+Bavarian-Styled Doppel Weizen,9,N,N,verified,Lagunitas Brewing Company,German Origin Ales,Lager,15,35,6.9,9.3,5,30,1.066,1.016,1.028,22
+Black Mamba,6,N,N,verified,Oskar Blues Brewery,German Origin Ales,Lager,15,35,6.9,9.3,5,30,1.066,1.016,1.028,34
+Dunkelweizen Bock,7.2,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Lager,15,35,6.9,9.3,5,30,1.066,1.016,1.028,30
+Weizenbock - Beer Camp #37,6.8,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Lager,15,35,6.9,9.3,5,30,1.066,1.016,1.028,26
+Banana Stand,5.6,Y,N,verified,Jackalope Brewing Company,German Origin Ales,Lager,10,15,4.8,5.4,10,19,1.048,1.008,1.016,11
+Beer Camp: Dunkle Weisse (2017),5.7,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Lager,10,15,4.8,5.4,10,19,1.058,1.008,1.016,10
+Dunkelweizen,5.5,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Lager,10,15,4.8,5.4,10,19,1.048,1.008,1.016,11
+Trip In the Woods: Rye Dunkelweizen,9.6,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Lager,10,15,4.8,5.4,10,19,1.048,1.008,1.016,28
+Tmavac,5.4,N,N,verified,Zero Gravity Craft Brewery,European-germanic Lager,Lager,16,25,4.5,5,15,20,1.048,1.014,1.018,23
+Dank Tank Magnum IP,9,N,Y,verified,SweetWater Brewing Company,European-germanic Lager,Lager,30,45,4.1,5.1,3,7,1.044,1.014,1.02,100
+Bohemian Dock Street Pilsner,5,N,N,verified,Dock Street Brewery,European-germanic Lager,Lager,25,40,4,5,3,4,1.044,1.006,1.012,34
+Mama's Little Yella Pils,5.3,N,N,verified,Oskar Blues Brewery,European-germanic Lager,Lager,25,40,4,5,3,4,1.044,1.006,1.012,35
+Pils,6.2,N,N,verified,Lagunitas Brewing Company,European-germanic Lager,Lager,25,40,4,5,3,4,1.044,1.006,1.012,35
+Southern Gothic Session Pils,5.6,N,N,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,25,40,4,5,3,4,1.044,1.006,1.012,40
+Take Two Pils,5.5,N,N,verified,SweetWater Brewing Company,European-germanic Lager,Lager,25,40,4,5,3,4,1.044,1.006,1.012,35
+Keller,4.9,N,N,verified,Zero Gravity Craft Brewery,European-germanic Lager,Lager,25,40,4,5,3,4,1.044,1.006,1.012,25
+Mandarina Bavaria,4.9,N,N,verified,Zero Gravity Craft Brewery,European-germanic Lager,Lager,25,40,4,5,3,4,1.044,1.006,1.012,35
+Autumn Ale,6,N,N,verified,Breckenridge Brewery,European-germanic Lager,Lager,18,25,5.3,5.9,4,15,1.05,1.012,1.02,21
+Martzen,5.3,N,N,verified,Oskar Blues Brewery,European-germanic Lager,Lager,18,25,5.3,5.9,4,15,1.05,1.012,1.02,21
+Octoberfest,5.2,N,N,verified,Wachusett Brewing Company,European-germanic Lager,Lager,18,25,5.3,5.9,4,15,1.05,1.012,1.02,21
+Noble Helles (Batch No. 32218),5,N,N,verified,Anheuser-Busch InBev,European-germanic Lager,Lager,18,25,4.5,5.5,4,6,1.044,1.008,1.012,25
+Bamberg Helles,5.2,N,N,verified,Zero Gravity Craft Brewery,European-germanic Lager,Lager,18,25,4.5,5.5,4,6,1.05,1.008,1.012,30
+Braupakt,6,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Lager,10,15,4.9,5.5,3,9,1.059,1.008,1.016,21
+Doppel Weizen,8.5,N,N,verified,Lagunitas Brewing Company,German Origin Ales,Lager,10,15,4.9,5.5,3,9,1.047,1.008,1.016,12
+Hefe Proper Ale,4,N,Y,verified,Breckenridge Brewery,German Origin Ales,Lager,10,15,4.9,5.5,3,9,1.047,1.008,1.016,9
+Hefeweizen,4.2,Y,N,verified,Jackalope Brewing Company,German Origin Ales,Lager,10,15,4.9,5.5,3,9,1.047,1.008,1.016,12
+Hefeweizen,4,Y,N,verified,Portsmouth Brewery,German Origin Ales,Lager,10,15,4.9,5.5,3,9,1.047,1.008,1.016,28
+Kellerweis,4.8,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Lager,10,15,4.9,5.5,3,9,1.047,1.008,1.016,15
+Lovebird Wheat,4.4,N,N,verified,Jackalope Brewing Company,German Origin Ales,Lager,10,15,4.9,5.5,3,9,1.047,1.008,1.016,10
+Station 3,5.7,N,N,verified,Oskar Blues Brewery,German Origin Ales,Lager,10,15,4.9,5.5,3,9,1.047,1.008,1.016,10
+Waterkeeper,6,N,N,verified,SweetWater Brewing Company,German Origin Ales,Lager,10,15,4.9,5.5,3,9,1.047,1.008,1.016,10
+American Summer Hoppy Wit,6,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.044,1.006,1.01,55
+Bob White,5,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.044,1.006,1.01,18
+Collabinator Wit,5,Y,N,verified,Blackstone Brewing Company,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.044,1.006,1.01,25
+Ovila Abbey White,5.3,N,N,verified,Sierra Nevada Brewing Company,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.044,1.006,1.01,22
+Priscilla,5.2,N,N,verified,Oskar Blues Brewery,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.044,1.006,1.01,20
+Spring Heat Spiced Wheat,5.2,N,Y,verified,Anheuser-Busch InBev,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.044,1.006,1.01,14
+Stoopid Wit,6,N,N,verified,Lagunitas Brewing Company,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.044,1.006,1.01,15
+Vanilla Wheat,5.9,Y,N,verified,Blue Moon Brewing Company,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.044,1.006,1.01,12
+White Ale,4.8,N,N,verified,Breckenridge Brewery,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.044,1.006,1.01,15
+Witness,6,N,N,verified,Zero Gravity Craft Brewery,Belgian And French Origin Ales,Lager,10,17,4.8,5.2,2,4,1.061,1.006,1.01,20
+Bella Czech Pils,5.3,N,N,verified,Wachusett Brewing Company,International Styles,Lager,17,30,4.5,5.3,3,4,1.044,1.008,1.01,35
+Stephan Urquell,4,Y,N,verified,Portsmouth Brewery,International Styles,Lager,17,30,4.5,5.3,3,4,1.044,1.008,1.01,40
+Twisted Fish,5.3,N,N,verified,SweetWater Brewing Company,International Styles,Lager,17,30,4.5,5.3,3,4,1.044,1.008,1.01,30
+Harbin Lager,5.5,N,N,verified,Anheuser-Busch InBev,International Styles,Lager,17,30,4.5,5.3,3,4,1.044,1.008,1.01,35
+Cranberry Kolsch,5,N,N,verified,Dock Street Brewery,German Origin Ales,Lager,18,25,4.8,5.3,4,6,1.042,1.006,1.01,23
+Full Circle,4.9,N,N,verified,New Holland Brewing Company,German Origin Ales,Lager,18,25,4.8,5.3,4,6,1.046,1.006,1.01,26
+Kolsch,5,N,N,verified,Sierra Nevada Brewing Company,German Origin Ales,Lager,18,25,4.8,5.3,4,6,1.048,1.006,1.01,34
+Kolsch Style Ale - Mountain Series,4.5,N,N,verified,Breckenridge Brewery,German Origin Ales,Lager,18,25,4.8,5.3,4,6,1.042,1.006,1.01,18
+McKercher's Keller Kolsch,5.2,N,N,verified,Oskar Blues Brewery,German Origin Ales,Lager,18,25,4.8,5.3,4,6,1.042,1.006,1.01,21
+"30th Anniversary - Charlie, Fred & Ken's Bock",8.3,N,Y,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,20,38,6,8,4,10,1.066,1.012,1.02,36
+Barrel Aged BOTL Cap,8.9,N,N,verified,New Holland Brewing Company,European-germanic Lager,Lager,20,38,6,8,4,10,1.066,1.012,1.02,38
+Beer Like A Billy Goat,6.5,N,N,verified,Zero Gravity Craft Brewery,European-germanic Lager,Lager,20,38,6,8,4,10,1.07,1.012,1.02,25
+Dogs of Helles,4,N,N,verified,Laughing Dog Brewing,European-germanic Lager,Lager,20,38,6,8,4,10,1.066,1.012,1.02,9
+Glissade Golden Bock,6.4,N,N,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,20,38,6,8,4,10,1.066,1.012,1.02,42
+Gravitation Collaboration,7.8,Y,N,verified,New Holland Brewing Company,European-germanic Lager,Lager,20,38,6,8,4,10,1.066,1.012,1.02,22
+Mai-nd-Bockling,6,N,N,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,20,38,6,8,4,10,1.066,1.012,1.02,30
+Yonder Bock - Beer Camp Across America (2014),7.7,N,N,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,20,38,6,8,4,10,1.078,1.012,1.02,45
+Oktoberfest (2016),6,N,Y,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,23,29,5,6,3,5,1.048,1.01,1.014,30
+Oktoberfest (2017),6.1,N,Y,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,23,29,5,6,3,5,1.048,1.01,1.014,30
+Oktoberfest,6,N,N,verified,Breckenridge Brewery,European-germanic Lager,Lager,23,29,5,6,3,5,1.048,1.01,1.014,30
+Osktoberfest,6,N,N,verified,Oskar Blues Brewery,European-germanic Lager,Lager,23,29,5,6,3,5,1.048,1.01,1.014,30
+Tequiza,4.5,N,Y,verified,Anheuser-Busch InBev,Other Lager,Lager,9,18,3.8,5,2,5,1.038,1.006,1.01,11
+Beerito,4,N,N,verified,Oskar Blues Brewery,European-germanic Lager,Lager,22,28,4.8,5.4,12,16,1.046,1.012,1.018,21
+Extra Time,5.8,N,N,verified,New Holland Brewing Company,European-germanic Lager,Lager,22,28,4.8,5.4,12,16,1.046,1.012,1.018,28
+Fohn,4.7,N,N,verified,New Holland Brewing Company,European-germanic Lager,Lager,22,28,4.8,5.4,12,16,1.046,1.012,1.018,28
+Vienna,5.3,N,N,verified,Sierra Nevada Brewing Company,European-germanic Lager,Lager,22,28,4.8,5.4,12,16,1.046,1.012,1.018,28
+Vienna Lager,5.7,N,N,verified,Oskar Blues Brewery,European-germanic Lager,Lager,22,28,4.8,5.4,12,16,1.046,1.012,1.018,23
+Vienna Lager,4.7,N,N,verified,Portsmouth Brewery,European-germanic Lager,Lager,22,28,4.8,5.4,12,16,1.046,1.012,1.018,20
+25th Anniversary,9.8,N,N,verified,Breckenridge Brewery,North American Origin Ales,Stout,35,50,5.5,9.5,40,40,1.1,1.02,1.03,44
+Barrel Aged Twenty Five,9.8,N,N,verified,Breckenridge Brewery,North American Origin Ales,Stout,35,50,5.5,9.5,40,40,1.08,1.02,1.03,45
+Broken Vow,9.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,35,50,5.5,9.5,40,40,1.08,1.02,1.03,35
+Corsair Buckwheat Porter,8.2,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Stout,35,50,5.5,9.5,40,40,1.1,1.02,1.03,48
+Death By Coconut (Rum Barrel Aged),11.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,35,50,5.5,9.5,40,40,1.09,1.02,1.03,45
+Imperial Pecan Porter,9,N,N,verified,Laughing Dog Brewing,North American Origin Ales,Stout,35,50,5.5,9.5,40,40,1.08,1.02,1.03,49
+London Calling English Porter Cask,5.3,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,35,50,5.5,9.5,40,40,1.1,1.02,1.03,43
+Rye Cocoa Porter - ScareCity #2,10.2,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Stout,35,50,5.5,9.5,40,40,1.07,1.02,1.03,46
+30th Anniversary - Fritz and Ken's Ale,9.2,N,Y,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,76
+Barrel Aged Imperial Cherry Stout,9.5,N,N,verified,Breckenridge Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,77
+Barrel Aged Narwhal,12.9,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,54
+Barrel-Aged Ten Fidy,12.9,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,65
+Bourbon Barrel Aged Imperial Stout,11.2,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,70
+Bourbon Barrel Aged Imperial Stout With Coffee,11.2,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,40
+Brandy Barrel-Aged Ten Fidy,10.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,65
+Chocolate Chili Stout - High Altitude Series,8.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,60
+Dank Tank Old Man Johnson's Farm,9.6,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,60
+Dragon's Milk,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.096,1.02,1.03,31
+Dragon's Milk Reserve Coconut Rum,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.096,1.02,1.03,30
+Dragon's Milk Reserve Mexican Spice Cake,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,62
+Dragon's Milk Reserve Triple-Mashed,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,69
+Dragon's Milk Reserve Vanilla Chai,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,30
+Dragon's Milk Reserve with Coffee And Chocolate,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,71
+Dragon's Milk Reserve with S'mores,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,31
+Dragon's Milk Reserve with Toasted Chilies,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,50
+Dragon's Milk Reserve with Vanilla Chai,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,50
+Dragon's Milk Reserve: Brewer's Select,12,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,62
+Dragon's Milk Reserve: Cherry Chocolate,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,31
+Dragon's Milk Reserve: Mexican Spice Cake,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,70
+Dragon's Milk Reserve: Salted Caramel,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,60
+Dragon's Milk Reserve: Banana Coconut,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,31
+Dragon's Milk Reserve: Mocha Mint,11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,60
+Filthy Pumpkin,7.75,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,73
+Happy Ending (2014),9,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,57
+Happy Ending,9,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,54
+High West-ified Imperial Coffee Stout,12.2,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,56
+Imperial Stout (Fudge And Sickle),9.9,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,15
+Javanilla Ten FIDY,10.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,74
+Kate The Great Russian Imperial Stout,9.5,N,N,verified,Portsmouth Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,78
+Narwhal,10.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.101,1.02,1.03,60
+Narwhal Tawny Port Barrel Aged,11.4,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,56
+Night Tripper,10.8,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.115,1.02,1.03,56
+Night Tripper (2011),10.8,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,52
+Night Tripper Barrel Aged,10.8,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,56
+Night Wish,10.5,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,67
+Prince Myshkin,9,N,N,verified,Dock Street Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,59
+Royal Impy Stout,9.3,N,N,verified,Portsmouth Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,73
+Rum Barrel-Aged Ten Fidy,14.7,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,65
+Sinner's Son,12.4,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,60
+Ten FIDY (2014),10.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,65
+Ten FIDY (2015),10.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,65
+Ten FIDY,10.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,65
+Ten Fidy - Bourbon Barrel Aged,12.9,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,69
+Ten Fidy - Bulleit Bourbon Barrel Aged,11,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,73
+Ten FIDY Stranahans Bourbon Barrel Aged,10.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,65
+The Dogfather,10,N,N,verified,Laughing Dog Brewing,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,60
+Trip In The Woods Barrel Aged Narwhal w/Red & Black Currents,9.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,53
+Trip In the Woods: Cocoa Coconut Narwhal,11.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,60
+Tripper Noche,12.1,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,65
+Willett Bourbon Barrel Aged Imperial Stout,11.5,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,71
+Willettized Coffee Stout,11.7,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Stout,50,80,7,12,40,40,1.08,1.02,1.03,60
+Baltic Anomaly,8.5,N,N,verified,New Holland Brewing Company,Other Lager,Stout,35,40,7.5,9,40,40,1.022,1.016,1.022,20
+Baltic Joy,7.4,N,N,verified,Sierra Nevada Brewing Company,Other Lager,Stout,35,40,7.5,9,40,40,1.072,1.016,1.022,36
+Rainy Day Blues,6,Y,N,verified,Jackalope Brewing Company,Other Lager,Stout,35,40,7.5,9,40,40,1.072,1.016,1.022,25
+Anubis Imperial Coffee Porter,8,N,N,verified,Laughing Dog Brewing,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,33.6
+Beer Camp: Campout Porter (2017),7.7,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Stout,20,30,4.5,6,20,35,1.075,1.006,1.014,32
+Black Cat Porter,5.2,N,N,verified,Zero Gravity Craft Brewery,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,20
+Blackstrap Fever,6.1,N,N,verified,Oskar Blues Brewery,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,22
+Chai Porter,5.6,Y,N,verified,Jackalope Brewing Company,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,24
+Dank Tank Pulled Porter,7.7,N,N,verified,SweetWater Brewing Company,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,29
+Dark Knight,5.8,Y,N,verified,Jackalope Brewing Company,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,35
+Death By Coconut,6.5,N,N,verified,Oskar Blues Brewery,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,25
+Fusion 34 Michiganja,6.7,N,N,verified,Lagunitas Brewing Company,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,27
+Guinness West Indies Porter,6,N,N,verified,Guinness,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,24
+Hotbox Coffee Porter,6.5,N,N,verified,Oskar Blues Brewery,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,29
+Man Full of Trouble,5,N,N,verified,Dock Street Brewery,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,28
+Mean Joe Bean,8.5,N,N,verified,SweetWater Brewing Company,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,28
+Nib Sip Chub,7,N,N,verified,Oskar Blues Brewery,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,21
+Pecan Porter,8,N,N,verified,Laughing Dog Brewing,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,27
+Porter,5.6,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,32
+Puget Brown Porter,5.6,N,N,verified,Harmon Brewing Company,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,24
+Snowday Porter,4.3,Y,N,verified,Porter Brew,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,26
+SweetWater Exodus Porter,6.6,N,N,verified,SweetWater Brewing Company,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,23
+Toked Porter,6,N,N,verified,Oskar Blues Brewery,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,20
+Vanilla Porter,5.4,N,N,verified,Breckenridge Brewery,British Origin Ales,Stout,20,30,4.5,6,20,35,1.04,1.006,1.014,32
+Chocolate Pretzel Stout,5.2,Y,N,verified,Jackalope Brewing Company,Hybrid/mixed Beer,Stout,15,40,2.5,12,15,50,1.03,1.006,1.03,22
+Bolivia Newton John,7,N,N,verified,Oskar Blues Brewery,Hybrid/mixed Beer,Stout,15,40,2.5,12,8,50,1.03,1.006,1.03,39
+Mocha Porter,6,Y,N,verified,Ballast Point Brewing Company,Hybrid/mixed Beer,Stout,15,40,2.5,12,8,50,1.03,1.006,1.03,47
+Extra Stout,5.3,N,N,verified,Zero Gravity Craft Brewery,Irish Origin Ales,Stout,30,40,3.8,5,40,40,1.056,1.008,1.012,35
+Guinness Draught,4.3,N,N,verified,Guinness,Irish Origin Ales,Stout,30,40,3.8,5,40,40,1.038,1.008,1.012,50
+Guinness Red Harvest Stout,4.1,N,N,verified,Guinness,Irish Origin Ales,Stout,30,40,3.8,5,40,40,1.038,1.008,1.012,36
+Knightro,4.6,N,N,verified,Sierra Nevada Brewing Company,Irish Origin Ales,Stout,30,40,3.8,5,40,40,1.038,1.008,1.012,40
+Nitro Irish Stout,4.8,N,N,verified,Breckenridge Brewery,Irish Origin Ales,Stout,30,40,3.8,5,40,40,1.038,1.008,1.012,38
+Robert Beedus Jr,5.2,N,N,verified,Oskar Blues Brewery,Irish Origin Ales,Stout,30,40,3.8,5,40,40,1.038,1.008,1.012,33
+200th Anniversary Export Stout,6,N,N,verified,Guinness,Irish Origin Ales,Stout,30,60,5.7,9.3,40,40,1.052,1.008,1.02,52
+Bulleit Bourbon Ten Fidy,10.5,N,N,verified,Oskar Blues Brewery,Irish Origin Ales,Stout,30,60,5.7,9.3,40,40,1.052,1.008,1.02,30
+Bulleit Bourbon Ten Fidy (2013),11,N,N,verified,Oskar Blues Brewery,Irish Origin Ales,Stout,30,60,5.7,9.3,40,40,1.052,1.008,1.02,32
+Guinness Dublin Porter,3.8,N,N,verified,Guinness,Irish Origin Ales,Stout,30,60,5.7,9.3,40,40,1.052,1.008,1.02,43
+Guinness Foreign Extra,7.5,N,N,verified,Guinness,Irish Origin Ales,Stout,30,60,5.7,9.3,40,40,1.052,1.008,1.02,40
+Guinness Special Export,8,N,N,verified,Guinness,Irish Origin Ales,Stout,30,60,5.7,9.3,40,40,1.052,1.008,1.02,57
+Oatmeal Stout,5,N,N,verified,Breckenridge Brewery,British Origin Ales,Stout,20,40,3.8,6,20,20,1.038,1.008,1.02,31
+Oatmeal Stout - Beer Camp #45,9,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Stout,20,40,3.8,6,20,20,1.038,1.008,1.02,28
+Oatmeal Stout,5.5,Y,N,verified,Portsmouth Brewery,British Origin Ales,Stout,20,40,3.8,6,20,20,1.038,1.008,1.02,30
+The Poet,5.2,N,N,verified,New Holland Brewing Company,British Origin Ales,Stout,20,40,3.8,6,20,20,1.061,1.008,1.02,37
+Pulled Porter,7.7,N,N,verified,SweetWater Brewing Company,North American Origin Ales,Stout,20,40,5,8.7,20,20,1.04,1.006,1.014,34
+1794 The Fergal Project,4.5,N,N,verified,Wachusett Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,56
+Bare Knuckle Stout,8.2,N,N,verified,Anheuser-Busch InBev,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,32
+Beer Camp: Stout of the Union,7,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.071,1.01,1.022,64
+Black Cat Stout,5.5,N,N,verified,Portsmouth Brewery,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,0
+Bosden,6.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,59
+Cherry Vanilla Stout,5.5,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,28
+Chocolate Stout (Cask Conditioned) Aka Double Chocolate Snowman Stout,5.3,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,28
+Cinnister Stout,5,N,N,verified,Dock Street Brewery,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,54
+Dry Irish Stout,4.8,N,N,verified,Breckenridge Brewery,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,38
+Guinness 250th Anniversary Stout,5,N,N,verified,Guinness,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,42
+Guinness Extra Stout,5,N,N,verified,Guinness,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,59
+Imperial Stout,9.9,N,N,verified,Lagunitas Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,72.45
+Jackalope Coffee Stout,6.2,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,28
+Pumpkin Spice Latte : Nitro Series,5.5,N,N,verified,Breckenridge Brewery,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,11
+Satellite Stout,5.5,N,N,verified,Dock Street Brewery,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,49
+Snowman Stout,5.2,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,28
+Stout,5.8,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.02,1.01,1.022,50
+Stryker Stout,7.5,N,N,verified,Harmon Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,85
+Tannakin,6.2,N,N,verified,Jackalope Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,49
+Thunder Stout,4.95,N,N,verified,Breckenridge Brewery,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,25
+Velvet Elvis Stout,5.6,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,27
+Whiskey Barrel Snowman Stout,5.2,Y,N,verified,Jackalope Brewing Company,North American Origin Ales,Stout,35,60,5.7,8.8,40,40,1.05,1.01,1.022,28
+Foreign Extra Stout (Ghana),7.5,N,N,verified,Guinness,British Origin Ales,Stout,45,65,7,12,20,35,1.08,1.02,1.03,58
+Smaug's Breath,11,N,N,verified,New Holland Brewing Company,British Origin Ales,Stout,45,65,7,12,20,35,1.08,1.02,1.03,62
+The Dogfather Imperial Stout - Bourbon Barrel,10.85,N,N,verified,Laughing Dog Brewing,British Origin Ales,Stout,45,65,7,12,20,35,1.08,1.02,1.03,51
+Trip In The Woods: Tawny Narwhal,11.4,N,N,verified,Sierra Nevada Brewing Company,British Origin Ales,Stout,45,65,7,12,20,35,1.08,1.02,1.03,55
+Black Vapor,6,N,N,verified,Sierra Nevada Brewing Company,European-germanic Lager,Stout,22,30,3.8,5,25,30,1.044,1.01,1.016,28
+Guinness Black Lager,4.5,N,N,verified,Guinness,European-germanic Lager,Stout,22,30,3.8,5,25,30,1.044,1.01,1.016,27
+Potato Schwarzbier,4.9,Y,N,verified,Jackalope Brewing Company,European-germanic Lager,Stout,22,30,3.8,5,25,30,1.044,1.01,1.016,26
+72 Imperial,7.2,N,N,verified,Breckenridge Brewery,North American Origin Ales,Stout,35,50,7,12,40,40,1.08,1.02,1.03,11
+Breakfast At Chicos,7.5,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,35,50,7,12,40,40,1.08,1.02,1.03,32
+Coffee Stout,6.2,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,35,50,7,12,40,40,1.08,1.02,1.03,42
+Dock Street Walker,7.2,N,N,verified,Dock Street Brewery,North American Origin Ales,Stout,35,50,7,12,40,40,1.08,1.02,1.03,41
+New Holland Dragon's Milk (Bourbon Barrel Stout),11,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,35,50,7,12,40,40,1.08,1.02,1.03,31
+Rain Check,9.6,N,N,verified,Sierra Nevada Brewing Company,North American Origin Ales,Stout,35,50,7,12,40,40,1.08,1.02,1.03,41
+Sour Inc: Sour Stout With Cherries,6.7,N,N,verified,New Holland Brewing Company,North American Origin Ales,Stout,35,50,7,12,40,40,1.08,1.02,1.03,36
+Ten FIDY (2016),10.5,N,N,verified,Oskar Blues Brewery,North American Origin Ales,Stout,35,50,7,12,40,40,1.08,1.02,1.03,65
+Antwerpen Stout,8,N,N,verified,Guinness,British Origin Ales,Stout,15,25,3,6,40,40,1.045,1.012,1.02,23
+Cappuccino Stout,8.9,N,N,verified,Lagunitas Brewing Company,British Origin Ales,Stout,15,25,3,6,40,40,1.076,1.012,1.02,29.5
+Cream Ale,5.9,Y,N,verified,Jackalope Brewing Company,British Origin Ales,Stout,15,25,3,6,40,40,1.045,1.012,1.02,18
+Double Latte - Beer Camp Across America (2014),7.6,N,Y,verified,Sierra Nevada Brewing Company,British Origin Ales,Stout,15,25,3,6,40,40,1.085,1.012,1.02,60
+Guinness Milk Stout,5,N,N,verified,Guinness,British Origin Ales,Stout,15,25,3,6,40,40,1.045,1.012,1.02,25
+Hatchery series #4 Chocolate Milk Stout,5.4,N,N,verified,SweetWater Brewing Company,British Origin Ales,Stout,15,25,3,6,40,40,1.045,1.012,1.02,24
+Milk Stout,5.8,N,N,verified,Wachusett Brewing Company,British Origin Ales,Stout,15,25,3,6,40,40,1.045,1.012,1.02,28
+Nitro Series: Chocolate Orange Stout,6,N,N,verified,Breckenridge Brewery,British Origin Ales,Stout,15,25,3,6,40,40,1.045,1.012,1.02,13
+Smidy,5.2,N,N,verified,Oskar Blues Brewery,British Origin Ales,Stout,15,25,3,6,40,40,1.045,1.012,1.02,22
+Whole Lotta Lov,5.4,N,N,verified,Zero Gravity Craft Brewery,British Origin Ales,Stout,15,25,3,6,40,40,1.063,1.012,1.02,20
+Willettized Imperial Coffee Stout,12.6,N,N,verified,Lagunitas Brewing Company,British Origin Ales,Stout,15,25,3,6,40,40,1.1,1.012,1.02,35
